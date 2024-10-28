@@ -37,7 +37,7 @@ cat >> _build/osu-daily.html << EOF
     </header>
 
     <main class="container">
-      <table><thead><tr>
+      <table class="striped"><thead data-theme="light"><tr>
       <th scope="col">date</th>
       <th scope="col">artist</th>
       <th scope="col">song</th>
