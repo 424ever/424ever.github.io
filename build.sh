@@ -51,7 +51,7 @@ while read date artist song mapper difficulty score accuracy
   do
     cat >> _build/osu-daily.html << EOF
     <tr>
-    <th scope="row">$date</th>
+    <th scope="row"><a href="https://osu.ppy.sh/rankings/daily-challenge/$date">$date</a></th>
     <td>$artist - $song [$difficulty] ($mapper)</td>
     <td>$score</td>
     <td>$accuracy</td>
