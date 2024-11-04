@@ -42,19 +42,23 @@ cat >> _build/osu-daily.html << EOF
           </tr>
         </thead>
         <tbody>
-          EOF IFS=";" while read date artist song mapper difficulty score
-          accuracy do cat >> _build/osu-daily.html << EOF
+EOF
+IFS=";"
+while read date mapsetid artist song mapper difficulty score accuracy
+do cat >> _build/osu-daily.html << EOF
           <tr>
             <th scope="row">
               <a href="https://osu.ppy.sh/rankings/daily-challenge/$date"
                 >$date</a
               >
             </th>
-            <td>$artist - $song [$difficulty] ($mapper)</td>
+            <td><a href="https://osu.ppy.sh/beatmapsets/$mapsetid">$artist - $song [$difficulty] ($mapper)</a></td>
             <td>$score</td>
             <td>$accuracy</td>
           </tr>
-          EOF done < data/osu-daily.csv cat >> _build/osu-daily.html << EOF
+EOF
+done < data/osu-daily.csv
+cat >> _build/osu-daily.html << EOF
         </tbody>
       </table>
     </main>
