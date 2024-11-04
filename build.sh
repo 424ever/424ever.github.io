@@ -39,10 +39,7 @@ cat >> _build/osu-daily.html << EOF
     <main class="container">
       <table class="striped"><thead data-theme="light"><tr>
       <th scope="col">date</th>
-      <th scope="col">artist</th>
-      <th scope="col">song</th>
-      <th scope="col">mapper</th>
-      <th scope="col">difficulty</th>
+      <th scope="col">map</th>
       <th scope="col">score</th>
       <th scope="col">accuracy</th>
       </tr></thead>
@@ -55,10 +52,7 @@ while read date artist song mapper difficulty score accuracy
     cat >> _build/osu-daily.html << EOF
     <tr>
     <th scope="row">$date</th>
-    <td>$artist</td>
-    <td>$song</td>
-    <td>$mapper</td>
-    <td>$difficulty</td>
+    <td>$artist - $song [$difficulty] ($mapper)</td>
     <td>$score</td>
     <td>$accuracy</td>
     </tr>
