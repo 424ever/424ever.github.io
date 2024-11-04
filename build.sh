@@ -1,8 +1,8 @@
 #!/bin/sh
-rm -rfv _build
-mkdir -pv _build
+rm -rf _build
+mkdir -p _build
 
-cp -rv static/* _build
+cp -r static/* _build
 
 # osu! daily
 cat >> _build/osu-daily.html << EOF
