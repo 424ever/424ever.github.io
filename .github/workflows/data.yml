@@ -9,4 +9,4 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.OSU_ACCESS_TOKEN }}
         run: |-
-          curl --request GET --get "https://osu.ppy.sh/api/v2/rooms" --header "Content-Type: application/json" --header "Accept: application/json" --header "Authorization: Bearer $ACCESS_TOKEN"
+          curl --fail-with-body --request GET --get "https://osu.ppy.sh/api/v2/rooms" --header "Content-Type: application/json" --header "Accept: application/json" --header "Authorization: Bearer $ACCESS_TOKEN"
