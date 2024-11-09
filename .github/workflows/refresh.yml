@@ -1,0 +1,28 @@
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refresh osu!
+        env:
+          CLIENT_ID: ${{ secrets.OSU_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.OSU_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.OSU_REFRESH_TOKEN }}
+        run: |-
+          'curl --request POST "https://osu.ppy.sh/oauth/token" --header "Accept: application.json" --header "Content-Type: application/x-www-form-urlencoded" --data "client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=refresh_token&refresh_token=$REFRESH_TOKEN" -o response.json'
+          echo 'NEW_ACCESS_TOKEN=$(jq -r .access_token response.json)' >> $GITHUB_ENV
+          echo 'NEW_REFRESH_TOKEN=$(jq -r .refresh_token response.json)' >> $GITHUB_ENV
+      - uses: gliech/create-github-secret-action@v1
+        with:
+          name: OSU_ACCESS_TOKEN
+          value: ${{ env.NEW_ACCESS_TOKEN }}
+          pa_token: ${{ secrets.PA_TOKEN }}
+      - uses: gliech/create-github-secret-action@v1
+        with:
+          name: OSU_REFRESH_TOKEN
+          value: ${{ env.NEW_REFRESH_TOKEN }}
+          pa_token: ${{ secrets.PA_TOKEN }}
