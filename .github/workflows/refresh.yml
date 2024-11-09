@@ -7,13 +7,17 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: install curl & jq
+        run: sudo apt-get update && sudo apt-get install -y curl jq
       - name: Refresh osu!
         env:
           CLIENT_ID: ${{ secrets.OSU_CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.OSU_CLIENT_SECRET }}
           REFRESH_TOKEN: ${{ secrets.OSU_REFRESH_TOKEN }}
         run: |-
-          'curl --request POST "https://osu.ppy.sh/oauth/token" --header "Accept: application.json" --header "Content-Type: application/x-www-form-urlencoded" --data "client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=refresh_token&refresh_token=$REFRESH_TOKEN" -o response.json'
+          curl --request POST "https://osu.ppy.sh/oauth/token" --header "Accept: application.json" --header "Content-Type: application/x-www-form-urlencoded" --data "client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=refresh_token&refresh_token=$REFRESH_TOKEN" -o response.json
           echo 'NEW_ACCESS_TOKEN=$(jq -r .access_token response.json)' >> $GITHUB_ENV
           echo 'NEW_REFRESH_TOKEN=$(jq -r .refresh_token response.json)' >> $GITHUB_ENV
       - uses: gliech/create-github-secret-action@v1
