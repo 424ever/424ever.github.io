@@ -6,7 +6,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: osu! multiplayer rooms
-        env:
-          ACCESS_TOKEN: ${{ secrets.OSU_ACCESS_TOKEN }}
         run: |-
-          curl --fail-with-body --request GET --get "https://osu.ppy.sh/api/v2/rooms" --header "Content-Type: application/json" --header "Accept: application/json" --header "Authorization: Bearer $ACCESS_TOKEN"
+          exit 1
