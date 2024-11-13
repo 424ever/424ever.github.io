@@ -1,1 +1,1102 @@
-{}
+{
+  "2024-11-11": {
+    "date": "2024-11-11",
+    "beatmap": 1521481,
+    "artist": "YUC'e",
+    "title": "Future Candy",
+    "mapper": "Nathan",
+    "difficulty": "Insane",
+    "score": "979,072",
+    "accuracy": "99.31%"
+  },
+  "2024-11-10": {
+    "date": "2024-11-10",
+    "beatmap": 1773874,
+    "artist": "Culprate & Skorpion",
+    "title": "Jester",
+    "mapper": "NeilPerry",
+    "difficulty": "LCFC's Insane",
+    "score": "963,315",
+    "accuracy": "98.77%"
+  },
+  "2024-11-09": {
+    "date": "2024-11-09",
+    "beatmap": 4749405,
+    "artist": "Camellia",
+    "title": "crystallized",
+    "mapper": "Chaoslitz",
+    "difficulty": "Akitoshi's Insane",
+    "score": "986,211",
+    "accuracy": "98.90%"
+  },
+  "2024-11-08": {
+    "date": "2024-11-08",
+    "beatmap": 4480169,
+    "artist": "UNDEAD CORPORATION",
+    "title": "Everything will freeze",
+    "mapper": "LeCandy",
+    "difficulty": "Hard",
+    "score": "826,045",
+    "accuracy": "98.72%"
+  },
+  "2024-11-07": {
+    "date": "2024-11-07",
+    "beatmap": 1583062,
+    "artist": "Cranky",
+    "title": "CHASER",
+    "mapper": "Jounzan",
+    "difficulty": "pishi's Hard",
+    "score": "929,967",
+    "accuracy": "95.59%"
+  },
+  "2024-11-06": {
+    "date": "2024-11-06",
+    "beatmap": 3429000,
+    "artist": "Yooh",
+    "title": "RPG",
+    "mapper": "Alvearia",
+    "difficulty": "Collab Expert",
+    "score": "330,899",
+    "accuracy": "87.19%"
+  },
+  "2024-11-05": {
+    "date": "2024-11-05",
+    "beatmap": 3655549,
+    "artist": "tokiwa",
+    "title": "Memoirs feat. Aitsuki Nakuru",
+    "mapper": "LeCandy",
+    "difficulty": "Kujinn's Expert",
+    "score": "683,360",
+    "accuracy": "97.74%"
+  },
+  "2024-11-04": {
+    "date": "2024-11-04",
+    "beatmap": 1996783,
+    "artist": "KIRA & Heartbreaker",
+    "title": "B.B.F (feat. Hatsune Miku & Kagamine Rin)",
+    "mapper": "hypercyte",
+    "difficulty": "YOU LOSE",
+    "score": "608,326",
+    "accuracy": "95.67%"
+  },
+  "2024-11-03": {
+    "date": "2024-11-03",
+    "beatmap": 3670021,
+    "artist": "MYUKKE.",
+    "title": "AKKERA-COUNTRY-BOY",
+    "mapper": "Hishiro Chizuru",
+    "difficulty": "Xenon's Insane",
+    "score": "964,387",
+    "accuracy": "98.81%"
+  },
+  "2024-11-02": {
+    "date": "2024-11-02",
+    "beatmap": 2506205,
+    "artist": "KNOWER",
+    "title": "Overtime",
+    "mapper": "Mir",
+    "difficulty": "Plaudible's Insane",
+    "score": "980,993",
+    "accuracy": "99.37%"
+  },
+  "2024-11-01": {
+    "date": "2024-11-01",
+    "beatmap": 3117535,
+    "artist": "Aoi a.k.a. ALFOU",
+    "title": "Fluctuate (2020 Remaster)",
+    "mapper": "Realazy",
+    "difficulty": "KKip's Hard",
+    "score": "846,959",
+    "accuracy": "93.09%"
+  },
+  "2024-10-31": {
+    "date": "2024-10-31",
+    "beatmap": 2438766,
+    "artist": "Street",
+    "title": "Sakura Fubuki",
+    "mapper": "Sinnoh",
+    "difficulty": "Platter",
+    "score": "195,858",
+    "accuracy": "84.23%"
+  },
+  "2024-10-30": {
+    "date": "2024-10-30",
+    "beatmap": 4327687,
+    "artist": "II-L",
+    "title": "V804N (BMS Edit)",
+    "mapper": "hehe",
+    "difficulty": "Callie's Extra",
+    "score": "348,251",
+    "accuracy": "98.28%"
+  },
+  "2024-10-29": {
+    "date": "2024-10-29",
+    "beatmap": 3783209,
+    "artist": "cYsmix",
+    "title": "triangles",
+    "mapper": "yf_bmp",
+    "difficulty": "Chaoz's Expert",
+    "score": "81,591",
+    "accuracy": "69.81%"
+  },
+  "2024-10-28": {
+    "date": "2024-10-28",
+    "beatmap": 3765141,
+    "artist": "YUC'e",
+    "title": "macaron moon",
+    "mapper": "Amateurre",
+    "difficulty": "nathan's reversal",
+    "score": "662,900",
+    "accuracy": "96.84%"
+  },
+  "2024-10-27": {
+    "date": "2024-10-27",
+    "beatmap": 1983124,
+    "artist": "HyuN",
+    "title": "Grin",
+    "mapper": "ktgster",
+    "difficulty": "Insane",
+    "score": "939,930",
+    "accuracy": "97.93%"
+  },
+  "2024-10-26": {
+    "date": "2024-10-26",
+    "beatmap": 4684951,
+    "artist": "Annabel",
+    "title": "caracol",
+    "mapper": "honne",
+    "difficulty": "deluge",
+    "score": "778,337",
+    "accuracy": "94.84%"
+  },
+  "2024-10-25": {
+    "date": "2024-10-25",
+    "beatmap": 4501765,
+    "artist": "Down",
+    "title": "Halfslashed",
+    "mapper": "Down",
+    "difficulty": "Hard",
+    "score": "850,473",
+    "accuracy": "96.03%"
+  },
+  "2024-10-24": {
+    "date": "2024-10-24",
+    "beatmap": 4132646,
+    "artist": "Origami Angel",
+    "title": "The Title Track",
+    "mapper": "olc",
+    "difficulty": "Hard",
+    "score": "845,263",
+    "accuracy": "94.85%"
+  },
+  "2024-10-23": {
+    "date": "2024-10-23",
+    "beatmap": 240488,
+    "artist": "t+pazolite",
+    "title": "cheatreal",
+    "mapper": "caren_sk",
+    "difficulty": "Extra",
+    "score": "247,622",
+    "accuracy": "95.51%"
+  },
+  "2024-10-22": {
+    "date": "2024-10-22",
+    "beatmap": 1649596,
+    "artist": "S3RL",
+    "title": "Catchit (Radio Edit)",
+    "mapper": "StarrStyx",
+    "difficulty": "handsome's Insane",
+    "score": "654,881",
+    "accuracy": "96.64%"
+  },
+  "2024-10-21": {
+    "date": "2024-10-21",
+    "beatmap": 1970659,
+    "artist": "siromaru + cranky",
+    "title": "conflict",
+    "mapper": "Icekalt",
+    "difficulty": "Insane",
+    "score": "928,976",
+    "accuracy": "99.09%"
+  },
+  "2024-10-20": {
+    "date": "2024-10-20",
+    "beatmap": 4762060,
+    "artist": "sugosugiii",
+    "title": "Times New Roman",
+    "mapper": "Aeril",
+    "difficulty": "Insane",
+    "score": "604,451",
+    "accuracy": "95.81%"
+  },
+  "2024-10-19": {
+    "date": "2024-10-19",
+    "beatmap": 1548114,
+    "artist": "Feint & Boyinaband",
+    "title": "Time Bomb (feat. Veela)",
+    "mapper": "Naitsirk",
+    "difficulty": "Hyper",
+    "score": "836,120",
+    "accuracy": "99.59%"
+  },
+  "2024-10-18": {
+    "date": "2024-10-18",
+    "beatmap": 3327919,
+    "artist": "UNDEAD CORPORATION",
+    "title": "Blow",
+    "mapper": "hehe",
+    "difficulty": "Hard",
+    "score": "635,547",
+    "accuracy": "97.38%"
+  },
+  "2024-10-17": {
+    "date": "2024-10-17",
+    "beatmap": 1531843,
+    "artist": "Omoi",
+    "title": "Teo",
+    "mapper": "Kroytz",
+    "difficulty": "Dailycare's Hard",
+    "score": "1,052,738",
+    "accuracy": "98.56%"
+  },
+  "2024-10-16": {
+    "date": "2024-10-16",
+    "beatmap": 2964306,
+    "artist": "Morimori Atsushi",
+    "title": "Toono Gensou Monogatari (MRM REMIX)",
+    "mapper": "-Syncro",
+    "difficulty": "Extra",
+    "score": "749,183",
+    "accuracy": "98.61%"
+  },
+  "2024-10-15": {
+    "date": "2024-10-15",
+    "beatmap": 4500445,
+    "artist": "A-One feat. Aki",
+    "title": "Darkish",
+    "mapper": "- Ex -",
+    "difficulty": "Lunatic",
+    "score": "394,178",
+    "accuracy": "90.42%"
+  },
+  "2024-10-14": {
+    "date": "2024-10-14",
+    "beatmap": 3888965,
+    "artist": "Shibayan feat. 3L",
+    "title": "Maigo no Echo",
+    "mapper": "kelinimo",
+    "difficulty": "The Dulcet Melody of the Amour",
+    "score": "804,086",
+    "accuracy": "98.06%"
+  },
+  "2024-10-13": {
+    "date": "2024-10-13",
+    "beatmap": 521280,
+    "artist": "tsunamix_underground",
+    "title": "Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka",
+    "mapper": "TicClick",
+    "difficulty": "Lunatic",
+    "score": "568,769",
+    "accuracy": "94.12%"
+  },
+  "2024-10-12": {
+    "date": "2024-10-12",
+    "beatmap": 125112,
+    "artist": "Shihori",
+    "title": "Bamboo Dance",
+    "mapper": "Frostmourne",
+    "difficulty": "Hard",
+    "score": "1,033,642",
+    "accuracy": "99.73%"
+  },
+  "2024-10-11": {
+    "date": "2024-10-11",
+    "beatmap": 325409,
+    "artist": "Aki",
+    "title": "Wanna Be My Dream",
+    "mapper": "Lortus",
+    "difficulty": "Mera's Hard",
+    "score": "800,216",
+    "accuracy": "98.34%"
+  },
+  "2024-10-10": {
+    "date": "2024-10-10",
+    "beatmap": 1582604,
+    "artist": "Rin",
+    "title": "Daishibyo set 14 ~ Sado no Futatsuiwa",
+    "mapper": "Delis",
+    "difficulty": "Hard",
+    "score": "1,075,998",
+    "accuracy": "99.24%"
+  },
+  "2024-10-09": {
+    "date": "2024-10-09",
+    "beatmap": 42746,
+    "artist": "Wiklund",
+    "title": "Crystal Dimension",
+    "mapper": "Gladi",
+    "difficulty": "Insane",
+    "score": "80,582",
+    "accuracy": "69.76%"
+  },
+  "2024-10-08": {
+    "date": "2024-10-08",
+    "beatmap": 126446,
+    "artist": "Kola Kid",
+    "title": "can't hide your love",
+    "mapper": "Kert",
+    "difficulty": "Can't",
+    "score": "950,649",
+    "accuracy": "98.28%"
+  },
+  "2024-10-07": {
+    "date": "2024-10-07",
+    "beatmap": 385548,
+    "artist": "Kommisar",
+    "title": "Chipstream",
+    "mapper": "viptwo",
+    "difficulty": "Extra",
+    "score": "945,525",
+    "accuracy": "99.02%"
+  },
+  "2024-10-06": {
+    "date": "2024-10-06",
+    "beatmap": 2150025,
+    "artist": "Thaehan",
+    "title": "Chiptune & Baroque",
+    "mapper": "Cris-",
+    "difficulty": "Minorsonek's Insane",
+    "score": "799,819",
+    "accuracy": "96.40%"
+  },
+  "2024-10-05": {
+    "date": "2024-10-05",
+    "beatmap": 36003,
+    "artist": "Wiklund",
+    "title": "Whip the Blip",
+    "mapper": "Ultimate",
+    "difficulty": "nullPointLOL's Insane",
+    "score": "645,784",
+    "accuracy": "96.44%"
+  },
+  "2024-10-04": {
+    "date": "2024-10-04",
+    "beatmap": 791320,
+    "artist": "antiPLUR",
+    "title": "Speed of Link",
+    "mapper": "ktgster",
+    "difficulty": "450 000m/s",
+    "score": "24,164",
+    "accuracy": "65.59%"
+  },
+  "2024-10-03": {
+    "date": "2024-10-03",
+    "beatmap": 1428506,
+    "artist": "Kola Kid",
+    "title": "the Earth is counting on you",
+    "mapper": "h4d0uk3n1",
+    "difficulty": "hard",
+    "score": "995,734",
+    "accuracy": "99.86%"
+  },
+  "2024-10-02": {
+    "date": "2024-10-02",
+    "beatmap": 2517295,
+    "artist": "HyuN feat. LyuU",
+    "title": "Cross Over",
+    "mapper": "Skytuna",
+    "difficulty": "Falling Back Into the Abyss",
+    "score": "431,426",
+    "accuracy": "90.84%"
+  },
+  "2024-10-01": {
+    "date": "2024-10-01",
+    "beatmap": 1137065,
+    "artist": "AAAA + yadrigg",
+    "title": "Sakase Natsuzora, Koi no Hana.",
+    "mapper": "Battle",
+    "difficulty": "Extra",
+    "score": "838,588",
+    "accuracy": "98.41%"
+  },
+  "2024-09-30": {
+    "date": "2024-09-30",
+    "beatmap": 4645721,
+    "artist": "7_7 feat. kasane vavzed",
+    "title": "Yakou",
+    "mapper": "Hinsvar",
+    "difficulty": "Insane",
+    "score": "699,537",
+    "accuracy": "97.05%"
+  },
+  "2024-09-29": {
+    "date": "2024-09-29",
+    "beatmap": 735689,
+    "artist": "Draper",
+    "title": "Set Me Free",
+    "mapper": "Secretpipe",
+    "difficulty": "apple's Insane",
+    "score": "967,189",
+    "accuracy": "98.89%"
+  },
+  "2024-09-28": {
+    "date": "2024-09-28",
+    "beatmap": 569636,
+    "artist": "Agressor Bunx",
+    "title": "Tornado (Original Mix)",
+    "mapper": "Shadren",
+    "difficulty": "Insane",
+    "score": "781,275",
+    "accuracy": "98.78%"
+  },
+  "2024-09-27": {
+    "date": "2024-09-27",
+    "beatmap": 539916,
+    "artist": "Rise Against",
+    "title": "Injection",
+    "mapper": "pishifat",
+    "difficulty": "Hard",
+    "score": "793,039",
+    "accuracy": "97.42%"
+  },
+  "2024-09-26": {
+    "date": "2024-09-26",
+    "beatmap": 452042,
+    "artist": "Matrix & Futurebound",
+    "title": "Magnetic Eyes (feat. Baby Blue)",
+    "mapper": "Desperate-kun",
+    "difficulty": "Twin Hard",
+    "score": "860,916",
+    "accuracy": "95.34%"
+  },
+  "2024-09-25": {
+    "date": "2024-09-25",
+    "beatmap": 2296608,
+    "artist": "Kola Kid",
+    "title": "can't hide your love",
+    "mapper": "ShirohaMyMommy",
+    "difficulty": "Extra",
+    "score": "584,767",
+    "accuracy": "94.42%"
+  },
+  "2024-09-24": {
+    "date": "2024-09-24",
+    "beatmap": 3254176,
+    "artist": "Annabel",
+    "title": "lilac slumber -cosmic ver.-",
+    "mapper": "PandaHero",
+    "difficulty": "extra",
+    "score": "855,227",
+    "accuracy": "98.26%"
+  },
+  "2024-09-23": {
+    "date": "2024-09-23",
+    "beatmap": 2384823,
+    "artist": "PUP",
+    "title": "Sleep In The Heat",
+    "mapper": "Milan-",
+    "difficulty": "Expert",
+    "score": "542,898",
+    "accuracy": "94.56%"
+  },
+  "2024-09-22": {
+    "date": "2024-09-22",
+    "beatmap": 4503647,
+    "artist": "t+pazolite",
+    "title": "Call me it. (500 Tortures)",
+    "mapper": "Aeril",
+    "difficulty": "insane.",
+    "score": "882,462",
+    "accuracy": "98.48%"
+  },
+  "2024-09-21": {
+    "date": "2024-09-21",
+    "beatmap": 4574607,
+    "artist": "solfa feat. Shimotsuki Haruka + Ceui",
+    "title": "STUDY STEADY",
+    "mapper": "Fufla",
+    "difficulty": "Laurier's Insane",
+    "score": "971,324",
+    "accuracy": "98.99%"
+  },
+  "2024-09-20": {
+    "date": "2024-09-20",
+    "beatmap": 1443054,
+    "artist": "Hige Driver",
+    "title": "Palette",
+    "mapper": "Jounzan",
+    "difficulty": "Collab Hard",
+    "score": "1,042,765",
+    "accuracy": "99.44%"
+  },
+  "2024-09-19": {
+    "date": "2024-09-19",
+    "beatmap": 3353618,
+    "artist": "Down",
+    "title": "Luscent",
+    "mapper": "Down",
+    "difficulty": "Hard",
+    "score": "1,031,589",
+    "accuracy": "99.09%"
+  },
+  "2024-09-18": {
+    "date": "2024-09-18",
+    "beatmap": 257793,
+    "artist": "LeaF",
+    "title": "Calamity Fortune",
+    "mapper": "Flower",
+    "difficulty": "Extra",
+    "score": "330,522",
+    "accuracy": "83.11%"
+  },
+  "2024-09-17": {
+    "date": "2024-09-17",
+    "beatmap": 1772923,
+    "artist": "Culprate & Joe Ford",
+    "title": "Gaucho",
+    "mapper": "ScubDomino",
+    "difficulty": "Extra",
+    "score": "588,730",
+    "accuracy": "96.90%"
+  },
+  "2024-09-16": {
+    "date": "2024-09-16",
+    "beatmap": 676923,
+    "artist": "A.SAKA",
+    "title": "Nanatsu Issenzakura",
+    "mapper": "Hollow Wings",
+    "difficulty": "fanzhen's Another",
+    "score": "1,020,000",
+    "accuracy": "100.00%"
+  },
+  "2024-09-15": {
+    "date": "2024-09-15",
+    "beatmap": 2036666,
+    "artist": "James Landino",
+    "title": "Reaction feat. Slyleaf",
+    "mapper": "pishifat",
+    "difficulty": "Extra",
+    "score": "318,330",
+    "accuracy": "82.40%"
+  },
+  "2024-09-14": {
+    "date": "2024-09-14",
+    "beatmap": 1582807,
+    "artist": "Rin",
+    "title": "Moriya set 08 ReEdit ~ Youkai no Yama",
+    "mapper": "jonathanlfj",
+    "difficulty": "Jounzan's Hard",
+    "score": "465,974",
+    "accuracy": "97.63%"
+  },
+  "2024-09-13": {
+    "date": "2024-09-13",
+    "beatmap": 1864179,
+    "artist": "HyuN",
+    "title": "Tokyo's Starlight",
+    "mapper": "Pho",
+    "difficulty": "Zetera's Hard",
+    "score": "1,056,181",
+    "accuracy": "99.90%"
+  },
+  "2024-09-12": {
+    "date": "2024-09-12",
+    "beatmap": 3665005,
+    "artist": "Fellowship",
+    "title": "Glory Days",
+    "mapper": "nebuwua",
+    "difficulty": "Maki's Extra",
+    "score": "524,238",
+    "accuracy": "92.43%"
+  },
+  "2024-09-11": {
+    "date": "2024-09-11",
+    "beatmap": 215906,
+    "artist": "Rohi",
+    "title": "Kakuzetsu Thanatos",
+    "mapper": "NatsumeRin",
+    "difficulty": "Skystar",
+    "score": "509,060",
+    "accuracy": "93.62%"
+  },
+  "2024-09-10": {
+    "date": "2024-09-10",
+    "beatmap": 373781,
+    "artist": "ginkiha",
+    "title": "EOS",
+    "mapper": "alacat",
+    "difficulty": "Lycoris",
+    "score": "562,340",
+    "accuracy": "93.45%"
+  },
+  "2024-09-09": {
+    "date": "2024-09-09",
+    "beatmap": 2921283,
+    "artist": "P4koo (NONE)",
+    "title": "Sogaikan Utopia",
+    "mapper": "Niva",
+    "difficulty": "Darkness",
+    "score": "920,643",
+    "accuracy": "97.29%"
+  },
+  "2024-09-08": {
+    "date": "2024-09-08",
+    "beatmap": 2258972,
+    "artist": "Celldweller",
+    "title": "The Best It's Gonna Get",
+    "mapper": "Mirash",
+    "difficulty": "Insane",
+    "score": "605,895",
+    "accuracy": "94.90%"
+  },
+  "2024-09-07": {
+    "date": "2024-09-07",
+    "beatmap": 1660974,
+    "artist": "cYsmix",
+    "title": "Behind the Walls",
+    "mapper": "Lasse",
+    "difficulty": "Insane",
+    "score": "998,946",
+    "accuracy": "98.61%"
+  },
+  "2024-09-06": {
+    "date": "2024-09-06",
+    "beatmap": 204601,
+    "artist": "ginkiha",
+    "title": "Oriens",
+    "mapper": "Deif",
+    "difficulty": "-kevincela-'s Hyper",
+    "score": "1,009,422",
+    "accuracy": "98.36%"
+  },
+  "2024-09-05": {
+    "date": "2024-09-05",
+    "beatmap": 2511234,
+    "artist": "KNOWER",
+    "title": "Overtime",
+    "mapper": "Mir",
+    "difficulty": "Plaudible's Hard",
+    "score": "1,008,279",
+    "accuracy": "97.10%"
+  },
+  "2024-09-04": {
+    "date": "2024-09-04",
+    "beatmap": 1096903,
+    "artist": "Kanpyohgo",
+    "title": "Unmei no Dark Side -Rolling Gothic mix",
+    "mapper": "My Angel Azusa",
+    "difficulty": "Satellite's Lunatic",
+    "score": "226,241",
+    "accuracy": "76.83%"
+  },
+  "2024-09-03": {
+    "date": "2024-09-03",
+    "beatmap": 1582585,
+    "artist": "Cranky",
+    "title": "Ran",
+    "mapper": "pishifat",
+    "difficulty": "Extra",
+    "score": "679,157",
+    "accuracy": "96.01%"
+  },
+  "2024-09-02": {
+    "date": "2024-09-02",
+    "beatmap": 163054,
+    "artist": "Shihori",
+    "title": "Magic Girl !!",
+    "mapper": "Frostmourne",
+    "difficulty": "Lunatic",
+    "score": "587,356",
+    "accuracy": "93.19%"
+  },
+  "2024-09-01": {
+    "date": "2024-09-01",
+    "beatmap": 2036906,
+    "artist": "James Landino",
+    "title": "Hide And Seek",
+    "mapper": "Mirash",
+    "difficulty": "RLC's Insane",
+    "score": "969,476",
+    "accuracy": "98.96%"
+  },
+  "2024-08-31": {
+    "date": "2024-08-31",
+    "beatmap": 3686870,
+    "artist": "-45",
+    "title": "Total Eclipse of The Sun",
+    "mapper": "Matrix",
+    "difficulty": "PandaHero's Insane",
+    "score": "1,041,828",
+    "accuracy": "99.46%"
+  },
+  "2024-08-30": {
+    "date": "2024-08-30",
+    "beatmap": 4409355,
+    "artist": "Cranky",
+    "title": "R176 [Short Edit]",
+    "mapper": "AJT",
+    "difficulty": "Ascended's HARD",
+    "score": "1,056,925",
+    "accuracy": "99.84%"
+  },
+  "2024-08-29": {
+    "date": "2024-08-29",
+    "beatmap": 3929223,
+    "artist": "Origami Angel",
+    "title": "Dr. Fondoom",
+    "mapper": "Hivie",
+    "difficulty": "Kantan",
+    "score": "1,039,447",
+    "accuracy": "99.10%"
+  },
+  "2024-08-28": {
+    "date": "2024-08-28",
+    "beatmap": 936432,
+    "artist": "Morimori Atsushi",
+    "title": "Paradigm Shift",
+    "mapper": "Avena",
+    "difficulty": "Extreme",
+    "score": "571,347",
+    "accuracy": "90.75%"
+  },
+  "2024-08-27": {
+    "date": "2024-08-27",
+    "beatmap": 2290176,
+    "artist": "Rivers of Nihil",
+    "title": "Where Owls Know My Name",
+    "mapper": "Hectic",
+    "difficulty": "Doom",
+    "score": "514,339",
+    "accuracy": "91.52%"
+  },
+  "2024-08-26": {
+    "date": "2024-08-26",
+    "beatmap": 3907619,
+    "artist": "kakichoco",
+    "title": "Zan'ei",
+    "mapper": "PandaHero",
+    "difficulty": "Collab Another",
+    "score": "987,710",
+    "accuracy": "99.58%"
+  },
+  "2024-08-25": {
+    "date": "2024-08-25",
+    "beatmap": 3831294,
+    "artist": "Rameses B",
+    "title": "Mountains (feat. Veela)",
+    "mapper": "Strategas",
+    "difficulty": "Is it worth it?",
+    "score": "684,743",
+    "accuracy": "96.85%"
+  },
+  "2024-08-24": {
+    "date": "2024-08-24",
+    "beatmap": 3717627,
+    "artist": "Annabel",
+    "title": "pedalnote",
+    "mapper": "alevi",
+    "difficulty": "godkei's insane",
+    "score": "924,479",
+    "accuracy": "99.58%"
+  },
+  "2024-08-23": {
+    "date": "2024-08-23",
+    "beatmap": 4414143,
+    "artist": "Aiobahn feat. KOTOKO",
+    "title": "INTERNET YAMERO",
+    "mapper": "NeonMarijuana",
+    "difficulty": "Setu's HARD",
+    "score": "455,755",
+    "accuracy": "93.74%"
+  },
+  "2024-08-22": {
+    "date": "2024-08-22",
+    "beatmap": 334470,
+    "artist": "solfa feat. Chata",
+    "title": "Miracle infinity",
+    "mapper": "Fycho",
+    "difficulty": "Hard",
+    "score": "995,373",
+    "accuracy": "99.82%"
+  },
+  "2024-08-21": {
+    "date": "2024-08-21",
+    "beatmap": 1238045,
+    "artist": "Camellia",
+    "title": "Quantum Entanglement",
+    "mapper": "Sing",
+    "difficulty": "Ensemble",
+    "score": "651,056",
+    "accuracy": "98.14%"
+  },
+  "2024-08-20": {
+    "date": "2024-08-20",
+    "beatmap": 984508,
+    "artist": "Junk",
+    "title": "Yellow Smile (bms edit)",
+    "mapper": "-kevincela-",
+    "difficulty": "Extra",
+    "score": "720,096",
+    "accuracy": "98.01%"
+  },
+  "2024-08-19": {
+    "date": "2024-08-19",
+    "beatmap": 543496,
+    "artist": "Function Phantom",
+    "title": "Neuronecia",
+    "mapper": "Amamiya Yuko",
+    "difficulty": "iyasine's Insane",
+    "score": "578,053",
+    "accuracy": "95.13%"
+  },
+  "2024-08-18": {
+    "date": "2024-08-18",
+    "beatmap": 1498730,
+    "artist": "Misun",
+    "title": "Eli Eli (Maduk Remix)",
+    "mapper": "Milan-",
+    "difficulty": "Insane",
+    "score": "991,795",
+    "accuracy": "99.73%"
+  },
+  "2024-08-17": {
+    "date": "2024-08-17",
+    "beatmap": 2304706,
+    "artist": "Imy",
+    "title": "Meteora",
+    "mapper": "MiyohashiKoori",
+    "difficulty": "L18's Light Insane",
+    "score": "231,963",
+    "accuracy": "89.72%"
+  },
+  "2024-08-16": {
+    "date": "2024-08-16",
+    "beatmap": 2507883,
+    "artist": "meganeko",
+    "title": "Feral (osu! edit)",
+    "mapper": "Respirte",
+    "difficulty": "Hard",
+    "score": "762,620",
+    "accuracy": "97.70%"
+  },
+  "2024-08-15": {
+    "date": "2024-08-15",
+    "beatmap": 3635358,
+    "artist": "Satyr",
+    "title": "Levitator",
+    "mapper": "IllusionB",
+    "difficulty": "Flake's Hard",
+    "score": "966,301",
+    "accuracy": "98.82%"
+  },
+  "2024-08-14": {
+    "date": "2024-08-14",
+    "beatmap": 837694,
+    "artist": "Camellia feat. Nanahira",
+    "title": "Tsukitourou",
+    "mapper": "jonathanlfj",
+    "difficulty": "Countless",
+    "score": "605,732",
+    "accuracy": "96.60%"
+  },
+  "2024-08-13": {
+    "date": "2024-08-13",
+    "beatmap": 3449357,
+    "artist": "Morimori Atsushi",
+    "title": "Txxs or get the fxxk out!!",
+    "mapper": "Luscent",
+    "difficulty": "Down's Extra",
+    "score": "715,384",
+    "accuracy": "98.77%"
+  },
+  "2024-08-12": {
+    "date": "2024-08-12",
+    "beatmap": 2034145,
+    "artist": "Feryquitous feat. Aitsuki Nakuru",
+    "title": "Ether",
+    "mapper": "Acyl",
+    "difficulty": "coco's Expert",
+    "score": "702,339",
+    "accuracy": "98.45%"
+  },
+  "2024-08-11": {
+    "date": "2024-08-11",
+    "beatmap": 781370,
+    "artist": "Feint",
+    "title": "Vagrant (feat. Veela)",
+    "mapper": "appleeaterx",
+    "difficulty": "Insane",
+    "score": "935,443",
+    "accuracy": "97.77%"
+  },
+  "2024-08-10": {
+    "date": "2024-08-10",
+    "beatmap": 3404785,
+    "artist": "Zekk",
+    "title": "Duplication",
+    "mapper": "keevy",
+    "difficulty": "0ppinLuruu's Insane",
+    "score": "237,071",
+    "accuracy": "76.39%"
+  },
+  "2024-08-09": {
+    "date": "2024-08-09",
+    "beatmap": 2602194,
+    "artist": "Nekrogoblikon",
+    "title": "Dressed as Goblins",
+    "mapper": "Dada",
+    "difficulty": "IOException's Hard",
+    "score": "649,924",
+    "accuracy": "96.79%"
+  },
+  "2024-08-08": {
+    "date": "2024-08-08",
+    "beatmap": 2305773,
+    "artist": "Station Earth",
+    "title": "Cold Green Eyes feat. Roos Denayer",
+    "mapper": "Sotarks",
+    "difficulty": "Kowari's Hard",
+    "score": "978,615",
+    "accuracy": "99.27%"
+  },
+  "2024-08-07": {
+    "date": "2024-08-07",
+    "beatmap": 1582902,
+    "artist": "Cranky",
+    "title": "Rave 2 Rave",
+    "mapper": "Sonnyc",
+    "difficulty": "Expert",
+    "score": "526,479",
+    "accuracy": "93.52%"
+  },
+  "2024-08-06": {
+    "date": "2024-08-06",
+    "beatmap": 3893556,
+    "artist": "A.SAKA",
+    "title": "Mutsuki Akari no Yuki",
+    "mapper": "allein",
+    "difficulty": "Expert",
+    "score": "285,772",
+    "accuracy": "84.81%"
+  },
+  "2024-08-05": {
+    "date": "2024-08-05",
+    "beatmap": 4423300,
+    "artist": "LV.4",
+    "title": "Burning Star",
+    "mapper": "ktgster",
+    "difficulty": "IOException's Insane",
+    "score": "586,088",
+    "accuracy": "94.46%"
+  },
+  "2024-08-04": {
+    "date": "2024-08-04",
+    "beatmap": 1582591,
+    "artist": "Cranky",
+    "title": "Feline, the White...",
+    "mapper": "appleeaterx",
+    "difficulty": "Jounzan's Insane",
+    "score": "785,398",
+    "accuracy": "98.83%"
+  },
+  "2024-08-03": {
+    "date": "2024-08-03",
+    "beatmap": 3169427,
+    "artist": "Masahiro \"Godspeed\" Aoki",
+    "title": "Frostbite (Cut Ver.)",
+    "mapper": "Niva",
+    "difficulty": "Insane",
+    "score": "692,226",
+    "accuracy": "96.88%"
+  },
+  "2024-08-02": {
+    "date": "2024-08-02",
+    "beatmap": 2517643,
+    "artist": "PUP",
+    "title": "Scorpion Hill",
+    "mapper": "pishifat",
+    "difficulty": "Hard",
+    "score": "869,387",
+    "accuracy": "96.69%"
+  },
+  "2024-08-01": {
+    "date": "2024-08-01",
+    "beatmap": 3770788,
+    "artist": "YUC'e",
+    "title": "macaron moon",
+    "mapper": "Amateurre",
+    "difficulty": "asagi's hard",
+    "score": "985,225",
+    "accuracy": "99.53%"
+  },
+  "2024-07-31": {
+    "date": "2024-07-31",
+    "beatmap": 3445691,
+    "artist": "ELFENSJoN",
+    "title": "Naraku no Majo",
+    "mapper": "SMOKELIND",
+    "difficulty": "Mayu's Extra",
+    "score": "311,043",
+    "accuracy": "83.47%"
+  },
+  "2024-07-30": {
+    "date": "2024-07-30",
+    "beatmap": 4520633,
+    "artist": "solfa feat. Ceui",
+    "title": "primal",
+    "mapper": "Lafayla",
+    "difficulty": "Heart",
+    "score": "872,533",
+    "accuracy": "99.21%"
+  },
+  "2024-07-29": {
+    "date": "2024-07-29",
+    "beatmap": 2555507,
+    "artist": "Mili",
+    "title": "Vitamins feat. world's end girlfriend",
+    "mapper": "ScubDomino",
+    "difficulty": "Scub x Kalibe's Insane",
+    "score": "991,270",
+    "accuracy": "99.75%"
+  },
+  "2024-07-28": {
+    "date": "2024-07-28",
+    "beatmap": 4266221,
+    "artist": "Aethoro",
+    "title": "Inertia Split",
+    "mapper": "LMT",
+    "difficulty": "VINXIS' Insane",
+    "score": "941,363",
+    "accuracy": "98.01%"
+  },
+  "2024-07-27": {
+    "date": "2024-07-27",
+    "beatmap": 2879668,
+    "artist": "Silentroom",
+    "title": "Alt Futur",
+    "mapper": "Lasse",
+    "difficulty": "Insane",
+    "score": "979,234",
+    "accuracy": "99.28%"
+  },
+  "2024-07-26": {
+    "date": "2024-07-26",
+    "beatmap": 3997798,
+    "artist": "Kabocha feat. mikanzil",
+    "title": "HOTCHPOTCH Hitoribocchi",
+    "mapper": "Garden",
+    "difficulty": "Insane",
+    "score": "952,520",
+    "accuracy": "98.37%"
+  },
+  "2024-07-25": {
+    "date": "2024-07-25",
+    "beatmap": 2662771,
+    "artist": "glass beach",
+    "title": "cold weather",
+    "mapper": "pishifat",
+    "difficulty": "hard",
+    "score": "958,366",
+    "accuracy": "98.54%"
+  }
+}
