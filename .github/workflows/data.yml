@@ -1,4 +1,6 @@
 on:
+  schedule:
+    - cron: 45 3,19 * * *
   workflow_dispatch:
 concurrency:
   group: usescreds
