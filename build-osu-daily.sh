@@ -44,7 +44,8 @@ cat >> _build/osu-daily.html << EOF
         <tbody>
 EOF
 IFS=";"
-while read date mapsetid artist song mapper difficulty score accuracy
+jq -r '[.[]]|sort_by(.date)|.[]|"\(.date);\(.beatmap);\(.artist);\(.title);\(.mapper);\(.difficulty);\(.score);\(.accuracy)"' data/osu-daily.json \
+|                         while read date mapid artist song mapper difficulty score accuracy
 do cat >> _build/osu-daily.html << EOF
           <tr>
             <th scope="row">
@@ -52,12 +53,12 @@ do cat >> _build/osu-daily.html << EOF
                 >$date</a
               >
             </th>
-            <td><a href="https://osu.ppy.sh/beatmapsets/$mapsetid">$artist - $song [$difficulty] ($mapper)</a></td>
+            <td><a href="https://osu.ppy.sh/b/$mapid">$artist - $song [$difficulty] ($mapper)</a></td>
             <td>$score</td>
             <td>$accuracy</td>
           </tr>
 EOF
-done < data/osu-daily.csv
+done
 cat >> _build/osu-daily.html << EOF
         </tbody>
       </table>
