@@ -26,6 +26,5 @@ jobs:
           git add data/osu-daily.json
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '37748408+github-actions[bot]@users.noreply.github.com'
-          git diff --cached || exit 0
-          git commit -m 'update osu daily data'
+          git commit -m 'update osu daily data' || exit 0
           git push
