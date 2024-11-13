@@ -14,6 +14,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22.x"
+      - name: fetch secrets branch
+        run: |-
+          git fetch --no-tags --prune --no-recurse-submodules --depth=1 origin secrets:refs/remotes/origin/secrets
       - name: download stats
         env:
           PASS: ${{ secrets.SECRETS_PASSPHRASE }}
