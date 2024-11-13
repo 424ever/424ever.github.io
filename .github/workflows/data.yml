@@ -18,7 +18,7 @@ jobs:
         env:
           PASS: ${{ secrets.SECRETS_PASSPHRASE }}
         run: |-
-          ACCESS_TOKEN=$(git cat-file blob secrets:osu/access_token.gpg | gpg --quiet --batch --yes --decrypt --passphrase="$PASS")
+          ACCESS_TOKEN=$(git cat-file blob refs/remotes/origin/secrets:osu/access_token.gpg | gpg --quiet --batch --yes --decrypt --passphrase="$PASS")
           node src/update-daily-data.js $ACCESS_TOKEN data/osu-daily.json
           git add data/osu-daily.json
           git config --global user.name 'github-actions[bot]'
