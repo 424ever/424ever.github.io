@@ -25,7 +25,7 @@ jobs:
           jq -r .access_token response.json | gpg --quiet --batch --yes --symmetric --cipher-algo AES256 --passphrase="$PASS" --output osu/access_token.gpg
           jq -r .refresh_token response.json | gpg --quiet --batch --yes --symmetric --cipher-algo AES256 --passphrase="$PASS" --output osu/refresh_token.gpg
           rm response.json
-          git config --global user.name '424ever'
+          git config --global user.name '424ever [Bot]'
           git config --global user.email '424ever@users.noreply.github.com'
           git add osu/refresh_token.gpg
           git add osu/access_token.gpg
