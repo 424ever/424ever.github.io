@@ -6,6 +6,21 @@ jobs:
   osu_daily:
     runs-on: ubuntu-latest
     steps:
-      - name: osu! multiplayer rooms
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PA_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22.x"
+      - name: download stats
+        env:
+          PASS: ${{ secrets.SECRETS_PASSPHRASE }}
         run: |-
-          exit 1
+          ACCESS_TOKEN=$(git cat-file blob secrets:osu/access_token.gpg | gpg --quiet --batch --yes --decrypt --passphrase="$PASS")
+          node src/update-daily-data.js $ACCESS_TOKEN data/osu-daily.json
+          git add data/osu-daily.json
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '37748408+github-actions[bot]@users.noreply.github.com'
+          git diff --cached || exit 0
+          git commit -m 'update osu daily data'
+          git push
