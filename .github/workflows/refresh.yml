@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: usescreds
 jobs:
   run:
     runs-on: ubuntu-latest

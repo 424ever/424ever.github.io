@@ -1,8 +1,9 @@
 on:
   workflow_dispatch:
-
+concurrency:
+  group: usescreds
 jobs:
-  update:
+  osu_daily:
     runs-on: ubuntu-latest
     steps:
       - name: osu! multiplayer rooms
