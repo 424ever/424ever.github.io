@@ -86,4 +86,5 @@ try {
   writeFileSync(file_path, JSON.stringify(days));
 } catch (error) {
   console.error(`failed to write ${file_path}: ${error}`);
+  process.exit(1);
 }
