@@ -83,7 +83,7 @@ for (const room of rooms) {
 }
 
 try {
-  writeFileSync(file_path, JSON.stringify(days));
+  writeFileSync(file_path, JSON.stringify(days, null, 2));
 } catch (error) {
   console.error(`failed to write ${file_path}: ${error}`);
   process.exit(1);
