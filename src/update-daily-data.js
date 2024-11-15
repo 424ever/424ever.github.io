@@ -44,7 +44,11 @@ const oneday = 24 * 60 * 60 * 1000;
 const today = new Date();
 const rooms = await get_or_die(
   "rooms?" +
-    new URLSearchParams({ category: "daily_challenge", mode: "participated" }),
+    new URLSearchParams({
+      category: "daily_challenge",
+      mode: "participated",
+      limit: "10",
+    }),
   20240529,
 );
 for (const room of rooms) {
