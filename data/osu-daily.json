@@ -1128,5 +1128,15 @@
     "difficulty": "Hard",
     "score": "1,044,931",
     "accuracy": "99.52%"
+  },
+  "2024-11-15": {
+    "date": "2024-11-15",
+    "beatmap": 1208037,
+    "artist": "BilliumMoto",
+    "title": "HDHR",
+    "mapper": "RyoKazuka",
+    "difficulty": "Insane",
+    "score": "1,032,414",
+    "accuracy": "99.08%"
   }
 }
