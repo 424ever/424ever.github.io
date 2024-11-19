@@ -1168,5 +1168,15 @@
     "difficulty": "Insane",
     "score": "1,140,782",
     "accuracy": "99.25%"
+  },
+  "2024-11-19": {
+    "date": "2024-11-19",
+    "beatmap": 1877452,
+    "artist": "nekodex",
+    "title": "Liquid Future",
+    "mapper": "AncuL",
+    "difficulty": "Insane",
+    "score": "368,428",
+    "accuracy": "83.64%"
   }
 }
