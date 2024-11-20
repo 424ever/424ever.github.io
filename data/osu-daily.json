@@ -1178,5 +1178,15 @@
     "difficulty": "Insane",
     "score": "368,428",
     "accuracy": "83.64%"
+  },
+  "2024-11-20": {
+    "date": "2024-11-20",
+    "beatmap": 2404833,
+    "artist": "Sound Souler",
+    "title": "Bubble Flower",
+    "mapper": "Sylas",
+    "difficulty": "Effervescence",
+    "score": "433,658",
+    "accuracy": "90.32%"
   }
 }
