@@ -1208,5 +1208,15 @@
     "difficulty": "Hard",
     "score": "1,054,200",
     "accuracy": "99.79%"
+  },
+  "2024-11-23": {
+    "date": "2024-11-23",
+    "beatmap": 216151,
+    "artist": "Rohi",
+    "title": "Kakuzetsu Thanatos",
+    "mapper": "NatsumeRin",
+    "difficulty": "Hard",
+    "score": "1,043,300",
+    "accuracy": "99.47%"
   }
 }
