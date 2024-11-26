@@ -1238,5 +1238,15 @@
     "difficulty": "Atm's Insane",
     "score": "855,603",
     "accuracy": "99.37%"
+  },
+  "2024-11-26": {
+    "date": "2024-11-26",
+    "beatmap": 131564,
+    "artist": "Lily",
+    "title": "Scarlet Rose",
+    "mapper": "val0108",
+    "difficulty": "0108 style",
+    "score": "555,129",
+    "accuracy": "95.32%"
   }
 }
