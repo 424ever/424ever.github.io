@@ -1258,5 +1258,15 @@
     "difficulty": "Extra",
     "score": "475,689",
     "accuracy": "93.53%"
+  },
+  "2024-11-28": {
+    "date": "2024-11-28",
+    "beatmap": 2227470,
+    "artist": "Creo",
+    "title": "Shape of the Sun",
+    "mapper": "NeilPerry",
+    "difficulty": "Hard",
+    "score": "946,071",
+    "accuracy": "98.74%"
   }
 }
