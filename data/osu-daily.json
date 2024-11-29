@@ -1268,5 +1268,15 @@
     "difficulty": "Hard",
     "score": "1,022,953",
     "accuracy": "98.80%"
+  },
+  "2024-11-29": {
+    "date": "2024-11-29",
+    "beatmap": 687261,
+    "artist": "Function Phantom",
+    "title": "Algebra",
+    "mapper": "Bonzi",
+    "difficulty": "-kevincela-'s Hard",
+    "score": "961,528",
+    "accuracy": "99.02%"
   }
 }
