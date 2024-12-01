@@ -1288,5 +1288,15 @@
     "difficulty": "(#3) fanzhen's Insane",
     "score": "1,043,742",
     "accuracy": "98.23%"
+  },
+  "2024-12-01": {
+    "date": "2024-12-01",
+    "beatmap": 1639561,
+    "artist": "VINXIS",
+    "title": "Left Behind",
+    "mapper": "EririSawamura",
+    "difficulty": "Insane",
+    "score": "1,000,660",
+    "accuracy": "100.00%"
   }
 }
