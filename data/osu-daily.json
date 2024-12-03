@@ -1308,5 +1308,15 @@
     "difficulty": "Insane",
     "score": "925,480",
     "accuracy": "95.42%"
+  },
+  "2024-12-03": {
+    "date": "2024-12-03",
+    "beatmap": 4797880,
+    "artist": "Feint",
+    "title": "Snake Eyes (feat. CoMa)",
+    "mapper": "Skystar",
+    "difficulty": "Extra",
+    "score": "978,249",
+    "accuracy": "99.25%"
   }
 }
