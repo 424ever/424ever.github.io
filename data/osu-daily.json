@@ -1318,5 +1318,15 @@
     "difficulty": "Extra",
     "score": "978,249",
     "accuracy": "99.25%"
+  },
+  "2024-12-04": {
+    "date": "2024-12-04",
+    "beatmap": 596595,
+    "artist": "Camellia feat. Nanahira",
+    "title": "Energy * Drin-ko Fein-chan!",
+    "mapper": "Spectator",
+    "difficulty": "RLC's Extreme",
+    "score": "521,757",
+    "accuracy": "95.42%"
   }
 }
