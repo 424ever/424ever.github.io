@@ -1358,5 +1358,15 @@
     "difficulty": "Extreme",
     "score": "1,019,433",
     "accuracy": "99.32%"
+  },
+  "2024-12-08": {
+    "date": "2024-12-08",
+    "beatmap": 128718,
+    "artist": "S3RL",
+    "title": "Pika Girl",
+    "mapper": "Takuya",
+    "difficulty": "Insane",
+    "score": "1,048,933",
+    "accuracy": "98.97%"
   }
 }
