@@ -1458,5 +1458,15 @@
     "difficulty": "Tycani's Hi-Heat Extra",
     "score": "685,854",
     "accuracy": "97.13%"
+  },
+  "2024-12-18": {
+    "date": "2024-12-18",
+    "beatmap": 4352324,
+    "artist": "Will Stetson",
+    "title": "KOALA",
+    "mapper": "Luscent",
+    "difficulty": "Expert",
+    "score": "387,800",
+    "accuracy": "90.18%"
   }
 }
