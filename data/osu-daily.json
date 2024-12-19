@@ -1468,5 +1468,15 @@
     "difficulty": "Expert",
     "score": "387,800",
     "accuracy": "90.18%"
+  },
+  "2024-12-19": {
+    "date": "2024-12-19",
+    "beatmap": 3270891,
+    "artist": "A.SAKA",
+    "title": "Nanatsu Myoukakitsubata",
+    "mapper": "Houshou Hari",
+    "difficulty": "Hard",
+    "score": "1,004,422",
+    "accuracy": "98.18%"
   }
 }
