@@ -1478,5 +1478,15 @@
     "difficulty": "Hard",
     "score": "1,004,422",
     "accuracy": "98.18%"
+  },
+  "2024-12-20": {
+    "date": "2024-12-20",
+    "beatmap": 4428313,
+    "artist": "A.SAKA",
+    "title": "KAGUTSUCHI",
+    "mapper": "Nymphe",
+    "difficulty": "Hard",
+    "score": "1,100,949",
+    "accuracy": "99.25%"
   }
 }
