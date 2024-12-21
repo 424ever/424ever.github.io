@@ -1488,5 +1488,15 @@
     "difficulty": "Hard",
     "score": "1,100,949",
     "accuracy": "99.25%"
+  },
+  "2024-12-21": {
+    "date": "2024-12-21",
+    "beatmap": 4593121,
+    "artist": "A.SAKA",
+    "title": "REIMEI",
+    "mapper": "Aeril",
+    "difficulty": "HARD",
+    "score": "1,057,154",
+    "accuracy": "98.61%"
   }
 }
