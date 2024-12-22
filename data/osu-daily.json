@@ -1498,5 +1498,15 @@
     "difficulty": "HARD",
     "score": "1,057,154",
     "accuracy": "98.61%"
+  },
+  "2024-12-22": {
+    "date": "2024-12-22",
+    "beatmap": 3954370,
+    "artist": "A.SAKA",
+    "title": "Nanatsu Myoukakitsubata",
+    "mapper": "August",
+    "difficulty": "Kaguya_Sama's Another",
+    "score": "991,285",
+    "accuracy": "99.69%"
   }
 }
