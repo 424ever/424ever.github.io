@@ -1518,5 +1518,15 @@
     "difficulty": "SB's Expert",
     "score": "859,793",
     "accuracy": "99.44%"
+  },
+  "2024-12-24": {
+    "date": "2024-12-24",
+    "beatmap": 2183542,
+    "artist": "A.SAKA",
+    "title": "Yosakura Fubuki",
+    "mapper": "Beomsan",
+    "difficulty": "Special",
+    "score": "750,186",
+    "accuracy": "97.62%"
   }
 }
