@@ -1528,5 +1528,15 @@
     "difficulty": "Special",
     "score": "750,186",
     "accuracy": "97.62%"
+  },
+  "2024-12-25": {
+    "date": "2024-12-25",
+    "beatmap": 1094998,
+    "artist": "A.SAKA",
+    "title": "Nanatsu Issenzakura",
+    "mapper": "yf_bmp",
+    "difficulty": "Petals",
+    "score": "287,942",
+    "accuracy": "84.29%"
   }
 }
