@@ -1538,5 +1538,15 @@
     "difficulty": "Petals",
     "score": "287,942",
     "accuracy": "84.29%"
+  },
+  "2024-12-26": {
+    "date": "2024-12-26",
+    "beatmap": 2880092,
+    "artist": "Silentroom",
+    "title": "Alt Futur",
+    "mapper": "Lasse",
+    "difficulty": "Hard",
+    "score": "1,033,184",
+    "accuracy": "99.15%"
   }
 }
