@@ -1548,5 +1548,15 @@
     "difficulty": "Hard",
     "score": "1,033,184",
     "accuracy": "99.15%"
+  },
+  "2024-12-27": {
+    "date": "2024-12-27",
+    "beatmap": 2456535,
+    "artist": "PUP",
+    "title": "Full Blown Meltdown",
+    "mapper": "eiri-",
+    "difficulty": "Normal",
+    "score": "1,137,167",
+    "accuracy": "99.09%"
   }
 }
