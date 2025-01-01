@@ -1598,5 +1598,15 @@
     "difficulty": "GAZIMAL'S EXTRA",
     "score": "479,713",
     "accuracy": "94.21%"
+  },
+  "2025-01-01": {
+    "date": "2025-01-01",
+    "beatmap": 2668594,
+    "artist": "I love you Orchestra",
+    "title": "Tenshin -Trigger ver.-",
+    "mapper": "Mirash",
+    "difficulty": "Leader's Extra",
+    "score": "533,807",
+    "accuracy": "94.15%"
   }
 }
