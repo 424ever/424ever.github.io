@@ -1608,5 +1608,15 @@
     "difficulty": "Leader's Extra",
     "score": "660,013",
     "accuracy": "95.12%"
+  },
+  "2025-01-02": {
+    "date": "2025-01-02",
+    "beatmap": 2789084,
+    "artist": "Street",
+    "title": "Sakura Fubuki",
+    "mapper": "Shima Rin",
+    "difficulty": "[4K] Normal",
+    "score": "676,116",
+    "accuracy": "90.64%"
   }
 }
