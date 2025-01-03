@@ -1618,5 +1618,15 @@
     "difficulty": "[4K] Normal",
     "score": "676,116",
     "accuracy": "90.64%"
+  },
+  "2025-01-03": {
+    "date": "2025-01-03",
+    "beatmap": 3547064,
+    "artist": "Street",
+    "title": "Hestia",
+    "mapper": "GYGY",
+    "difficulty": "Hard",
+    "score": "986,958",
+    "accuracy": "97.61%"
   }
 }
