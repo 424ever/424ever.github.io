@@ -1628,5 +1628,15 @@
     "difficulty": "Hard",
     "score": "986,958",
     "accuracy": "97.61%"
+  },
+  "2025-01-04": {
+    "date": "2025-01-04",
+    "beatmap": 1451309,
+    "artist": "Street",
+    "title": "Maritime Police",
+    "mapper": "Mir",
+    "difficulty": "Hard",
+    "score": "1,093,633",
+    "accuracy": "99.81%"
   }
 }
