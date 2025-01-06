@@ -1638,5 +1638,15 @@
     "difficulty": "Hard",
     "score": "1,093,633",
     "accuracy": "99.81%"
+  },
+  "2025-01-05": {
+    "date": "2025-01-05",
+    "beatmap": 2981397,
+    "artist": "Street",
+    "title": "Hishou",
+    "mapper": "August",
+    "difficulty": "Hinsvar's Insane",
+    "score": "977,239",
+    "accuracy": "99.30%"
   }
 }
