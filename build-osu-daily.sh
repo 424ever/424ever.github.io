@@ -63,6 +63,7 @@ cat >> _build/osu-daily.html << EOF
         </tbody>
       </table>
     </main>
+    I have not stopped playing the Daily Challenges (as of 2024-01-06), but the automatic update is currently broken.
   </body>
 </html>
 EOF
