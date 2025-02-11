@@ -1748,5 +1748,265 @@
     "difficulty": "the moon is pretty cheap",
     "score": "45,041",
     "accuracy": "90.76%"
+  },
+  "2025-01-31": {
+    "date": "2025-01-31",
+    "beatmap": 729986,
+    "artist": "Doxx & Feint",
+    "title": "The Pink Fields",
+    "mapper": "Bearizm",
+    "difficulty": "Divine",
+    "score": "71,912",
+    "accuracy": "98.17%"
+  },
+  "2025-01-30": {
+    "date": "2025-01-30",
+    "beatmap": 9806,
+    "artist": "Alestorm",
+    "title": "Nancy The Tavern Wench",
+    "mapper": "awp",
+    "difficulty": "Tank",
+    "score": "50,118",
+    "accuracy": "100.00%"
+  },
+  "2025-01-29": {
+    "date": "2025-01-29",
+    "beatmap": 3177532,
+    "artist": "Omoi",
+    "title": "Hey William (New Translation)",
+    "mapper": "Saoji",
+    "difficulty": "captin's Extra",
+    "score": "800,085",
+    "accuracy": "98.60%"
+  },
+  "2025-01-28": {
+    "date": "2025-01-28",
+    "beatmap": 4043181,
+    "artist": "Good Kid",
+    "title": "Faster",
+    "mapper": "Dino99",
+    "difficulty": "^___^",
+    "score": "838,368",
+    "accuracy": "98.19%"
+  },
+  "2025-01-27": {
+    "date": "2025-01-27",
+    "beatmap": 2257420,
+    "artist": "Minstrel",
+    "title": "Fiction",
+    "mapper": "Gravified",
+    "difficulty": "Kyubey's Insane",
+    "score": "671,512",
+    "accuracy": "96.74%"
+  },
+  "2025-01-26": {
+    "date": "2025-01-26",
+    "beatmap": 2742170,
+    "artist": "Masahiro \"Godspeed\" Aoki",
+    "title": "Blaze",
+    "mapper": "Niva",
+    "difficulty": "Pyromancy",
+    "score": "955,504",
+    "accuracy": "98.54%"
+  },
+  "2025-01-25": {
+    "date": "2025-01-25",
+    "beatmap": 4550768,
+    "artist": "glass beach",
+    "title": "cold weather",
+    "mapper": "Fufla",
+    "difficulty": "elzix's insane",
+    "score": "789,204",
+    "accuracy": "97.96%"
+  },
+  "2025-01-24": {
+    "date": "2025-01-24",
+    "beatmap": 4665159,
+    "artist": "MisoilePunch",
+    "title": "Mesheer",
+    "mapper": "Anxient",
+    "difficulty": "Hard",
+    "score": "1,027,360",
+    "accuracy": "98.93%"
+  },
+  "2025-01-23": {
+    "date": "2025-01-23",
+    "beatmap": 4145241,
+    "artist": "Marmalade butcher",
+    "title": "Noxious",
+    "mapper": "Aosek",
+    "difficulty": "dubturt's hard",
+    "score": "1,021,469",
+    "accuracy": "98.76%"
+  },
+  "2025-01-22": {
+    "date": "2025-01-22",
+    "beatmap": 523376,
+    "artist": "Morimori Atsushi",
+    "title": "PUPA",
+    "mapper": "Cherry Blossom",
+    "difficulty": "Butterfly",
+    "score": "295,817",
+    "accuracy": "83.71%"
+  },
+  "2025-01-21": {
+    "date": "2025-01-21",
+    "beatmap": 209276,
+    "artist": "Cres",
+    "title": "End Time",
+    "mapper": "Maddy",
+    "difficulty": "eXtra",
+    "score": "538,101",
+    "accuracy": "88.22%"
+  },
+  "2025-01-20": {
+    "date": "2025-01-20",
+    "beatmap": 282166,
+    "artist": "LeaF",
+    "title": "MEPHISTO",
+    "mapper": "Alumetorz",
+    "difficulty": "Another",
+    "score": "983,595",
+    "accuracy": "99.44%"
+  },
+  "2025-01-19": {
+    "date": "2025-01-19",
+    "beatmap": 2837531,
+    "artist": "nora2r",
+    "title": "B.B.K.K.B.K.K.",
+    "mapper": "Nozhomi",
+    "difficulty": "Insane",
+    "score": "795,643",
+    "accuracy": "96.94%"
+  },
+  "2025-01-18": {
+    "date": "2025-01-18",
+    "beatmap": 1644001,
+    "artist": "LeaF",
+    "title": "Alice in Misanthrope -Ensei Alice-",
+    "mapper": "eiri-",
+    "difficulty": "Reform's Light Insane",
+    "score": "965,272",
+    "accuracy": "98.89%"
+  },
+  "2025-01-17": {
+    "date": "2025-01-17",
+    "beatmap": 3460269,
+    "artist": "xi",
+    "title": "Time files",
+    "mapper": "IOException",
+    "difficulty": "Hard",
+    "score": "946,388",
+    "accuracy": "96.19%"
+  },
+  "2025-01-16": {
+    "date": "2025-01-16",
+    "beatmap": 3651716,
+    "artist": "-45",
+    "title": "Aci-L",
+    "mapper": "Luscent",
+    "difficulty": "Collab Extra",
+    "score": "595,439",
+    "accuracy": "95.40%"
+  },
+  "2025-01-15": {
+    "date": "2025-01-15",
+    "beatmap": 2326801,
+    "artist": "ELFENSJoN",
+    "title": "PHANTOM",
+    "mapper": "Kalibe",
+    "difficulty": "DELUSJoN",
+    "score": "626,382",
+    "accuracy": "96.04%"
+  },
+  "2025-01-14": {
+    "date": "2025-01-14",
+    "beatmap": 1582594,
+    "artist": "Function Phantom",
+    "title": "Variable",
+    "mapper": "Chaoslitz",
+    "difficulty": "Deluxe",
+    "score": "715,040",
+    "accuracy": "97.78%"
+  },
+  "2025-01-13": {
+    "date": "2025-01-13",
+    "beatmap": 3538894,
+    "artist": "my sound life",
+    "title": "omega",
+    "mapper": "Heroine",
+    "difficulty": "insane",
+    "score": "717,029",
+    "accuracy": "96.87%"
+  },
+  "2025-01-12": {
+    "date": "2025-01-12",
+    "beatmap": 4079304,
+    "artist": "Rin",
+    "title": "Lunatic set 03 ~ The Lake Reflects the Cleansed Moonlight",
+    "mapper": "Jycool",
+    "difficulty": "Lunatic",
+    "score": "959,285",
+    "accuracy": "98.61%"
+  },
+  "2025-01-11": {
+    "date": "2025-01-11",
+    "beatmap": 4643047,
+    "artist": "Kikuo",
+    "title": "Kimi wa Dekinai Ko",
+    "mapper": "fllecc",
+    "difficulty": "Insane",
+    "score": "562,924",
+    "accuracy": "95.78%"
+  },
+  "2025-01-10": {
+    "date": "2025-01-10",
+    "beatmap": 4345630,
+    "artist": "Down",
+    "title": "Duo Cup",
+    "mapper": "nanoya",
+    "difficulty": "momoyo's Hard",
+    "score": "1,024,564",
+    "accuracy": "98.84%"
+  },
+  "2025-01-09": {
+    "date": "2025-01-09",
+    "beatmap": 2269199,
+    "artist": "UNDEAD CORPORATION",
+    "title": "Tokoyo Omohikane no Kami",
+    "mapper": "Mirash",
+    "difficulty": "Intermediate",
+    "score": "1,008,736",
+    "accuracy": "98.34%"
+  },
+  "2025-01-08": {
+    "date": "2025-01-08",
+    "beatmap": 1236601,
+    "artist": "Street",
+    "title": "Hacking Code",
+    "mapper": "Mir",
+    "difficulty": "Decryption",
+    "score": "596,509",
+    "accuracy": "96.33%"
+  },
+  "2025-01-07": {
+    "date": "2025-01-07",
+    "beatmap": 2822239,
+    "artist": "Tanchiky & Street",
+    "title": "Empty flow",
+    "mapper": "NyarkoO",
+    "difficulty": "Collab",
+    "score": "637,198",
+    "accuracy": "97.57%"
+  },
+  "2025-01-06": {
+    "date": "2025-01-06",
+    "beatmap": 2584773,
+    "artist": "Street",
+    "title": "Reincarnation",
+    "mapper": "eiri-",
+    "difficulty": "Insane",
+    "score": "948,119",
+    "accuracy": "96.18%"
   }
 }
