@@ -1648,5 +1648,105 @@
     "difficulty": "Hinsvar's Insane",
     "score": "977,239",
     "accuracy": "99.30%"
+  },
+  "2025-02-10": {
+    "date": "2025-02-10",
+    "beatmap": 3719000,
+    "artist": "my sound life",
+    "title": "yamisame",
+    "mapper": "allein",
+    "difficulty": "imsame",
+    "score": "814,946",
+    "accuracy": "98.08%"
+  },
+  "2025-02-09": {
+    "date": "2025-02-09",
+    "beatmap": 3531935,
+    "artist": "my sound life",
+    "title": "omega",
+    "mapper": "Heroine",
+    "difficulty": "collab insane",
+    "score": "864,109",
+    "accuracy": "98.98%"
+  },
+  "2025-02-08": {
+    "date": "2025-02-08",
+    "beatmap": 4714325,
+    "artist": "my sound life",
+    "title": "02:15",
+    "mapper": "Cris-",
+    "difficulty": "kanocchi's insane",
+    "score": "480,497",
+    "accuracy": "89.19%"
+  },
+  "2025-02-07": {
+    "date": "2025-02-07",
+    "beatmap": 3553988,
+    "artist": "my sound life",
+    "title": "hello",
+    "mapper": "Hinsvar",
+    "difficulty": "hard",
+    "score": "1,036,726",
+    "accuracy": "99.22%"
+  },
+  "2025-02-06": {
+    "date": "2025-02-06",
+    "beatmap": 3639233,
+    "artist": "my sound life",
+    "title": "02:15",
+    "mapper": "Kudou Chitose",
+    "difficulty": "hard",
+    "score": "983,805",
+    "accuracy": "97.50%"
+  },
+  "2025-02-05": {
+    "date": "2025-02-05",
+    "beatmap": 3428141,
+    "artist": "Shibayan feat. yana",
+    "title": "Fall in the Dark",
+    "mapper": "UberFazz",
+    "difficulty": "Extra Stage",
+    "score": "28,166",
+    "accuracy": "86.13%"
+  },
+  "2025-02-04": {
+    "date": "2025-02-04",
+    "beatmap": 1582988,
+    "artist": "Cranky",
+    "title": "La fuite des jours",
+    "mapper": "Milan-",
+    "difficulty": "Expert",
+    "score": "56,999",
+    "accuracy": "93.33%"
+  },
+  "2025-02-03": {
+    "date": "2025-02-03",
+    "beatmap": 2459920,
+    "artist": "Ricky Montgomery",
+    "title": "Snow",
+    "mapper": "871",
+    "difficulty": "Wardrobe full of bones",
+    "score": "48,854",
+    "accuracy": "95.58%"
+  },
+  "2025-02-02": {
+    "date": "2025-02-02",
+    "beatmap": 438732,
+    "artist": "Mili",
+    "title": "Utopiosphere",
+    "mapper": "alacat",
+    "difficulty": "Ecstasia",
+    "score": "111,935",
+    "accuracy": "99.86%"
+  },
+  "2025-02-01": {
+    "date": "2025-02-01",
+    "beatmap": 3453461,
+    "artist": "bill wurtz",
+    "title": "the moon is made of cheese, but i can't taste it",
+    "mapper": "skro",
+    "difficulty": "the moon is pretty cheap",
+    "score": "45,041",
+    "accuracy": "90.76%"
   }
 }
