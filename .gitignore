@@ -2,3 +2,4 @@
 !**/*.gpg
 !*/
 !.gitignore
+!osu/auth.sh
