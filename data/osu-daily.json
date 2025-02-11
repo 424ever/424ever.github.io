@@ -2008,5 +2008,15 @@
     "difficulty": "Insane",
     "score": "948,119",
     "accuracy": "96.18%"
+  },
+  "2025-02-11": {
+    "date": "2025-02-11",
+    "beatmap": 2929587,
+    "artist": "my sound life",
+    "title": "AIR",
+    "mapper": "HanzeR",
+    "difficulty": "Aria",
+    "score": "336,784",
+    "accuracy": "85.97%"
   }
 }
