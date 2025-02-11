@@ -47,7 +47,7 @@ const rooms = await get_or_die(
     new URLSearchParams({
       category: "daily_challenge",
       mode: "participated",
-      limit: "10",
+      limit: "100",
     }),
   20240529,
 );
