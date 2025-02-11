@@ -21,7 +21,7 @@ jobs:
           CLIENT_ID=$(gpg --quiet --batch --yes --decrypt --passphrase="$PASS" osu/client_id.gpg)
           CLIENT_SECRET=$(gpg --quiet --batch --yes --decrypt --passphrase="$PASS" osu/client_secret.gpg)
           REFRESH_TOKEN=$(gpg --quiet --batch --yes --decrypt --passphrase="$PASS" osu/refresh_token.gpg)
-          curl --fail-with-body --request POST "https://osu.ppy.sh/oauth/token" --header "Accept: application.json" --header "Content-Type: application/x-www-form-urlencoded" --data "client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=refresh_token&refresh_token=$REFRESH_TOKEN" -o response.json
+          curl --fail-with-body --request POST "https://osu.ppy.sh/oauth/token" --header "Accept: application/json" --header "Content-Type: application/x-www-form-urlencoded" --data "client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=refresh_token&refresh_token=$REFRESH_TOKEN" -o response.json
           rm osu/refresh_token.gpg
           rm osu/access_token.gpg
           jq -r .access_token response.json | gpg --quiet --batch --yes --symmetric --cipher-algo AES256 --passphrase="$PASS" --output osu/access_token.gpg
