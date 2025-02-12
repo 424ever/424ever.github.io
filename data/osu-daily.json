@@ -2018,5 +2018,15 @@
     "difficulty": "Aria",
     "score": "336,784",
     "accuracy": "85.97%"
+  },
+  "2025-02-12": {
+    "date": "2025-02-12",
+    "beatmap": 3722665,
+    "artist": "my sound life",
+    "title": "AIR",
+    "mapper": "Mirash",
+    "difficulty": "Collab Extra",
+    "score": "587,805",
+    "accuracy": "97.20%"
   }
 }
