@@ -2068,5 +2068,15 @@
     "difficulty": "Adjudication",
     "score": "632,382",
     "accuracy": "93.91%"
+  },
+  "2025-02-17": {
+    "date": "2025-02-17",
+    "beatmap": 4766679,
+    "artist": "Makina",
+    "title": "Pluton",
+    "mapper": "Ldnz",
+    "difficulty": "Hades",
+    "score": "336,123",
+    "accuracy": "96.86%"
   }
 }
