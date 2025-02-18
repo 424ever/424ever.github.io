@@ -2078,5 +2078,15 @@
     "difficulty": "Hades",
     "score": "336,123",
     "accuracy": "96.86%"
+  },
+  "2025-02-18": {
+    "date": "2025-02-18",
+    "beatmap": 3299371,
+    "artist": "-45",
+    "title": "System Sun",
+    "mapper": "Lasse",
+    "difficulty": "Insane",
+    "score": "472,402",
+    "accuracy": "88.67%"
   }
 }
