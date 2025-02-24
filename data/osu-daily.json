@@ -2138,5 +2138,15 @@
     "difficulty": "Insane",
     "score": "360,752",
     "accuracy": "88.04%"
+  },
+  "2025-02-24": {
+    "date": "2025-02-24",
+    "beatmap": 2062331,
+    "artist": "Rin",
+    "title": "Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year",
+    "mapper": "Hinsvar",
+    "difficulty": "Lunatic",
+    "score": "420,296",
+    "accuracy": "87.47%"
   }
 }
