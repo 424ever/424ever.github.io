@@ -2148,5 +2148,15 @@
     "difficulty": "Lunatic",
     "score": "420,296",
     "accuracy": "87.47%"
+  },
+  "2025-02-25": {
+    "date": "2025-02-25",
+    "beatmap": 4709951,
+    "artist": "Camellia",
+    "title": "Ryuuseigun",
+    "mapper": "Atlust",
+    "difficulty": "Extra",
+    "score": "573,118",
+    "accuracy": "96.53%"
   }
 }
