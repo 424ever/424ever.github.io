@@ -2158,5 +2158,15 @@
     "difficulty": "Extra",
     "score": "573,118",
     "accuracy": "96.53%"
+  },
+  "2025-02-26": {
+    "date": "2025-02-26",
+    "beatmap": 4065131,
+    "artist": "xi",
+    "title": "Vanitas",
+    "mapper": "Anxient",
+    "difficulty": "RLC's Memoriam Extra",
+    "score": "318,565",
+    "accuracy": "86.04%"
   }
 }
