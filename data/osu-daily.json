@@ -2178,5 +2178,15 @@
     "difficulty": "Laurier's Hard",
     "score": "1,029,115",
     "accuracy": "99.00%"
+  },
+  "2025-02-28": {
+    "date": "2025-02-28",
+    "beatmap": 4727347,
+    "artist": "SECONDWALL",
+    "title": "Natsu no Owari",
+    "mapper": "Zelq",
+    "difficulty": "Mizujin x Zelq's Hard",
+    "score": "686,265",
+    "accuracy": "97.97%"
   }
 }
