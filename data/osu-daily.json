@@ -2198,5 +2198,15 @@
     "difficulty": "Ordinary Magician",
     "score": "807,959",
     "accuracy": "98.45%"
+  },
+  "2025-03-02": {
+    "date": "2025-03-02",
+    "beatmap": 4742627,
+    "artist": "ABSOLUTE CASTAWAY",
+    "title": "Shaula no Bara",
+    "mapper": "Luscent",
+    "difficulty": "Hard",
+    "score": "726,070",
+    "accuracy": "95.08%"
   }
 }
