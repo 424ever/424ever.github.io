@@ -2208,5 +2208,15 @@
     "difficulty": "Hard",
     "score": "726,070",
     "accuracy": "95.08%"
+  },
+  "2025-03-03": {
+    "date": "2025-03-03",
+    "beatmap": 4251575,
+    "artist": "Blue Stahli",
+    "title": "Shotgun Senorita (Zardonic Remix) (Cut Ver.)",
+    "mapper": "tomaiosai",
+    "difficulty": "Collab Expert",
+    "score": "741,229",
+    "accuracy": "97.68%"
   }
 }
