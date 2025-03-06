@@ -2238,5 +2238,15 @@
     "difficulty": "Extreme",
     "score": "669,535",
     "accuracy": "95.49%"
+  },
+  "2025-03-06": {
+    "date": "2025-03-06",
+    "beatmap": 1546829,
+    "artist": "Wisp X",
+    "title": "Coffee",
+    "mapper": "Sinnoh",
+    "difficulty": "Hard",
+    "score": "1,037,993",
+    "accuracy": "98.20%"
   }
 }
