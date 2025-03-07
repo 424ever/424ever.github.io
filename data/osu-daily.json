@@ -2248,5 +2248,15 @@
     "difficulty": "Hard",
     "score": "1,037,993",
     "accuracy": "98.20%"
+  },
+  "2025-03-07": {
+    "date": "2025-03-07",
+    "beatmap": 2650943,
+    "artist": "siqlo",
+    "title": "parsley",
+    "mapper": "Chompy",
+    "difficulty": "hard",
+    "score": "983,133",
+    "accuracy": "97.47%"
   }
 }
