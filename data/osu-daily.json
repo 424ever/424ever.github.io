@@ -2258,5 +2258,15 @@
     "difficulty": "hard",
     "score": "983,133",
     "accuracy": "97.47%"
+  },
+  "2025-03-08": {
+    "date": "2025-03-08",
+    "beatmap": 2160326,
+    "artist": "Wisp X",
+    "title": "Melon Soda",
+    "mapper": "Free Hong Kong",
+    "difficulty": "Insane",
+    "score": "408,802",
+    "accuracy": "89.11%"
   }
 }
