@@ -2298,5 +2298,15 @@
     "difficulty": "Burger",
     "score": "621,667",
     "accuracy": "95.75%"
+  },
+  "2025-03-12": {
+    "date": "2025-03-12",
+    "beatmap": 1252022,
+    "artist": "YUC'e",
+    "title": "Future Cider",
+    "mapper": "Sing",
+    "difficulty": "Duplication",
+    "score": "408,806",
+    "accuracy": "90.65%"
   }
 }
