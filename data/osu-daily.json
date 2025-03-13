@@ -2308,5 +2308,15 @@
     "difficulty": "Duplication",
     "score": "408,806",
     "accuracy": "90.65%"
+  },
+  "2025-03-13": {
+    "date": "2025-03-13",
+    "beatmap": 4932172,
+    "artist": "Rin",
+    "title": "Daishibyo set 10 ~ Oomiwa Shinwaden",
+    "mapper": "Annabel",
+    "difficulty": "annabel & Tachi's Hard",
+    "score": "221,080",
+    "accuracy": "89.96%"
   }
 }
