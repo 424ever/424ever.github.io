@@ -2328,5 +2328,15 @@
     "difficulty": "chr's Hard",
     "score": "148,079",
     "accuracy": "82.17%"
+  },
+  "2025-03-15": {
+    "date": "2025-03-15",
+    "beatmap": 440373,
+    "artist": "Shibayan feat. 3L",
+    "title": "Love",
+    "mapper": "truonant",
+    "difficulty": "Lunatic",
+    "score": "77,732",
+    "accuracy": "70.86%"
   }
 }
