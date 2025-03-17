@@ -2348,5 +2348,15 @@
     "difficulty": "Lunatic",
     "score": "116,152",
     "accuracy": "78.74%"
+  },
+  "2025-03-17": {
+    "date": "2025-03-17",
+    "beatmap": 793620,
+    "artist": "cYsmix",
+    "title": "Manic",
+    "mapper": "monstrata",
+    "difficulty": "Insane",
+    "score": "26,334",
+    "accuracy": "65.99%"
   }
 }
