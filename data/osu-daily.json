@@ -2378,5 +2378,15 @@
     "difficulty": "Shunkashuto",
     "score": "77,802",
     "accuracy": "74.55%"
+  },
+  "2025-03-20": {
+    "date": "2025-03-20",
+    "beatmap": 306652,
+    "artist": "Chata",
+    "title": "re:construction",
+    "mapper": "hoLysoup",
+    "difficulty": "Flower's Hard",
+    "score": "1,061,611",
+    "accuracy": "100.00%"
   }
 }
