@@ -2398,5 +2398,15 @@
     "difficulty": "Hard",
     "score": "905,250",
     "accuracy": "96.71%"
+  },
+  "2025-03-22": {
+    "date": "2025-03-22",
+    "beatmap": 406358,
+    "artist": "nora2r",
+    "title": "B.B.K.K.B.K.K",
+    "mapper": "rezoons",
+    "difficulty": "Hyper",
+    "score": "889,928",
+    "accuracy": "98.62%"
   }
 }
