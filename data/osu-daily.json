@@ -2438,5 +2438,15 @@
     "difficulty": "Another",
     "score": "676,309",
     "accuracy": "93.87%"
+  },
+  "2025-03-26": {
+    "date": "2025-03-26",
+    "beatmap": 247999,
+    "artist": "Shihori",
+    "title": "Day Breaker",
+    "mapper": "Frostmourne",
+    "difficulty": "Lunatic",
+    "score": "542,836",
+    "accuracy": "94.45%"
   }
 }
