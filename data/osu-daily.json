@@ -2458,5 +2458,15 @@
     "difficulty": "insane",
     "score": "858,077",
     "accuracy": "92.80%"
+  },
+  "2025-03-28": {
+    "date": "2025-03-28",
+    "beatmap": 4354563,
+    "artist": "James Landino, Funk Fiction, Motoi",
+    "title": "Dreaming",
+    "mapper": "Hinsvar",
+    "difficulty": "Fantasy",
+    "score": "0",
+    "accuracy": "0.00%"
   }
 }
