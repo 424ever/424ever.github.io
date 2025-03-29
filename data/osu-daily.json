@@ -2468,5 +2468,15 @@
     "difficulty": "Fantasy",
     "score": "767,112",
     "accuracy": "98.67%"
+  },
+  "2025-03-29": {
+    "date": "2025-03-29",
+    "beatmap": 3027689,
+    "artist": "PUP",
+    "title": "DVP",
+    "mapper": "attendant",
+    "difficulty": "Hard",
+    "score": "239,859",
+    "accuracy": "79.14%"
   }
 }
