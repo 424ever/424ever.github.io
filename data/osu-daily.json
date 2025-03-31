@@ -2488,5 +2488,15 @@
     "difficulty": "Insane!",
     "score": "586,565",
     "accuracy": "90.70%"
+  },
+  "2025-03-31": {
+    "date": "2025-03-31",
+    "beatmap": 2539701,
+    "artist": "Blue Marble",
+    "title": "Darkest Heights",
+    "mapper": "Sylas",
+    "difficulty": "Expert",
+    "score": "847,508",
+    "accuracy": "99.50%"
   }
 }
