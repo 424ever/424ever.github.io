@@ -2498,5 +2498,15 @@
     "difficulty": "Expert",
     "score": "847,508",
     "accuracy": "99.50%"
+  },
+  "2025-04-01": {
+    "date": "2025-04-01",
+    "beatmap": 3510581,
+    "artist": "Rameses B",
+    "title": "Mountains (feat. Veela)",
+    "mapper": "Asphyxia",
+    "difficulty": "Conversations",
+    "score": "425,562",
+    "accuracy": "89.75%"
   }
 }
