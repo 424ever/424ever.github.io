@@ -2508,5 +2508,15 @@
     "difficulty": "Conversations",
     "score": "425,562",
     "accuracy": "89.75%"
+  },
+  "2025-04-02": {
+    "date": "2025-04-02",
+    "beatmap": 736215,
+    "artist": "Panda Eyes & Teminite",
+    "title": "Highscore",
+    "mapper": "Fort",
+    "difficulty": "Game Over",
+    "score": "60,390",
+    "accuracy": "97.99%"
   }
 }
