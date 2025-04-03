@@ -2518,5 +2518,15 @@
     "difficulty": "Game Over",
     "score": "60,390",
     "accuracy": "97.99%"
+  },
+  "2025-04-03": {
+    "date": "2025-04-03",
+    "beatmap": 2665464,
+    "artist": "Rin",
+    "title": "Muenzuka set 09 ~ Hana wa Gensou no Mama ni",
+    "mapper": "eiri-",
+    "difficulty": "Lunatic",
+    "score": "1,061,501",
+    "accuracy": "98.81%"
   }
 }
