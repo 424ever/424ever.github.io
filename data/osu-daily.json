@@ -2658,5 +2658,15 @@
     "difficulty": "Freezing",
     "score": "603,319",
     "accuracy": "95.13%"
+  },
+  "2025-04-17": {
+    "date": "2025-04-17",
+    "beatmap": 1320642,
+    "artist": "UNDEAD CORPORATION",
+    "title": "Hafuri",
+    "mapper": "tokiko",
+    "difficulty": "Normal",
+    "score": "1,026,237",
+    "accuracy": "98.99%"
   }
 }
