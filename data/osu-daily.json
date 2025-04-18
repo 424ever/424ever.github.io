@@ -2668,5 +2668,15 @@
     "difficulty": "Normal",
     "score": "1,026,237",
     "accuracy": "98.99%"
+  },
+  "2025-04-18": {
+    "date": "2025-04-18",
+    "beatmap": 4761240,
+    "artist": "Aether Realm",
+    "title": "Ravensong",
+    "mapper": "iamtickrate",
+    "difficulty": "Normal",
+    "score": "1,050,100",
+    "accuracy": "98.36%"
   }
 }
