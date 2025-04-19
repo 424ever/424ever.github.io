@@ -2678,5 +2678,15 @@
     "difficulty": "Normal",
     "score": "1,050,100",
     "accuracy": "98.36%"
+  },
+  "2025-04-19": {
+    "date": "2025-04-19",
+    "beatmap": 4505363,
+    "artist": "Imy",
+    "title": "Egoist",
+    "mapper": "Aeril",
+    "difficulty": "SupaV's Hard",
+    "score": "936,649",
+    "accuracy": "96.53%"
   }
 }
