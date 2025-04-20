@@ -2688,5 +2688,15 @@
     "difficulty": "SupaV's Hard",
     "score": "936,649",
     "accuracy": "96.53%"
+  },
+  "2025-04-20": {
+    "date": "2025-04-20",
+    "beatmap": 3029745,
+    "artist": "PUP",
+    "title": "DVP",
+    "mapper": "attendant",
+    "difficulty": "Insane",
+    "score": "612,575",
+    "accuracy": "93.82%"
   }
 }
