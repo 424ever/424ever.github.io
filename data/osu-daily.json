@@ -2698,5 +2698,15 @@
     "difficulty": "Insane",
     "score": "612,575",
     "accuracy": "93.82%"
+  },
+  "2025-04-21": {
+    "date": "2025-04-21",
+    "beatmap": 4613631,
+    "artist": "Takamachi Walk",
+    "title": "Until the End of This Dream",
+    "mapper": "Wither",
+    "difficulty": "Lunatic",
+    "score": "489,332",
+    "accuracy": "90.14%"
   }
 }
