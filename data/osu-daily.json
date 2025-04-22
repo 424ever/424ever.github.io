@@ -2708,5 +2708,15 @@
     "difficulty": "Lunatic",
     "score": "489,332",
     "accuracy": "90.14%"
+  },
+  "2025-04-22": {
+    "date": "2025-04-22",
+    "beatmap": 2019487,
+    "artist": "Imperial Circus Dead Decadence",
+    "title": "Syakunetsu No Rengoku Ni Bara Wa...",
+    "mapper": "Sing",
+    "difficulty": "Insane",
+    "score": "575,298",
+    "accuracy": "94.82%"
   }
 }
