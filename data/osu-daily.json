@@ -2718,5 +2718,15 @@
     "difficulty": "Insane",
     "score": "575,298",
     "accuracy": "94.82%"
+  },
+  "2025-04-23": {
+    "date": "2025-04-23",
+    "beatmap": 4839530,
+    "artist": "Release Hallucination",
+    "title": "Chronostasis",
+    "mapper": "P A N",
+    "difficulty": "Extra",
+    "score": "249,004",
+    "accuracy": "91.79%"
   }
 }
