@@ -2728,5 +2728,15 @@
     "difficulty": "Extra",
     "score": "249,004",
     "accuracy": "91.79%"
+  },
+  "2025-04-24": {
+    "date": "2025-04-24",
+    "beatmap": 4504795,
+    "artist": "Satyr",
+    "title": "Picayune",
+    "mapper": "Wispy",
+    "difficulty": "Hard",
+    "score": "995,874",
+    "accuracy": "97.91%"
   }
 }
