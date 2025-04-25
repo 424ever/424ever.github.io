@@ -2738,5 +2738,15 @@
     "difficulty": "Hard",
     "score": "995,874",
     "accuracy": "97.91%"
+  },
+  "2025-04-25": {
+    "date": "2025-04-25",
+    "beatmap": 3367071,
+    "artist": "Chaos City Niigata",
+    "title": "Ukiyoe Yokochou",
+    "mapper": "Hazu-",
+    "difficulty": "Hard",
+    "score": "699,201",
+    "accuracy": "92.45%"
   }
 }
