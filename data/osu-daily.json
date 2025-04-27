@@ -2748,5 +2748,15 @@
     "difficulty": "Hard",
     "score": "699,201",
     "accuracy": "92.45%"
+  },
+  "2025-04-26": {
+    "date": "2025-04-26",
+    "beatmap": 4899509,
+    "artist": "Lime",
+    "title": "Pixel Planet",
+    "mapper": "Strategas",
+    "difficulty": "Wispy's Insane",
+    "score": "670,749",
+    "accuracy": "95.59%"
   }
 }
