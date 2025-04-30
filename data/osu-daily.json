@@ -2788,5 +2788,15 @@
     "difficulty": "Royal",
     "score": "542,817",
     "accuracy": "96.65%"
+  },
+  "2025-04-30": {
+    "date": "2025-04-30",
+    "beatmap": 847197,
+    "artist": "xi",
+    "title": "Aragami (Short Ver.)",
+    "mapper": "Chloe",
+    "difficulty": "Azer's Extra",
+    "score": "190,527",
+    "accuracy": "74.15%"
   }
 }
