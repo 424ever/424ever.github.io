@@ -2798,5 +2798,15 @@
     "difficulty": "Azer's Extra",
     "score": "190,527",
     "accuracy": "74.15%"
+  },
+  "2025-05-01": {
+    "date": "2025-05-01",
+    "beatmap": 4561481,
+    "artist": "polysha",
+    "title": "Hypnos Metropolis",
+    "mapper": "nik",
+    "difficulty": "Cytusine's Hard",
+    "score": "500,089",
+    "accuracy": "92.63%"
   }
 }
