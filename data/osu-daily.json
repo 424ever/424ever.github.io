@@ -2808,5 +2808,15 @@
     "difficulty": "Cytusine's Hard",
     "score": "500,089",
     "accuracy": "92.63%"
+  },
+  "2025-05-02": {
+    "date": "2025-05-02",
+    "beatmap": 4829860,
+    "artist": "Toromaru",
+    "title": "Deorbit",
+    "mapper": "Wispy",
+    "difficulty": "Hard",
+    "score": "594,004",
+    "accuracy": "93.66%"
   }
 }
