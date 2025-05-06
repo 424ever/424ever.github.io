@@ -2848,5 +2848,15 @@
     "difficulty": "Fleurix",
     "score": "567,175",
     "accuracy": "95.65%"
+  },
+  "2025-05-06": {
+    "date": "2025-05-06",
+    "beatmap": 3735675,
+    "artist": "-45",
+    "title": "NyanNyathotep",
+    "mapper": "Dada",
+    "difficulty": "Garden's Hard",
+    "score": "929,224",
+    "accuracy": "97.95%"
   }
 }
