@@ -2868,5 +2868,15 @@
     "difficulty": "Relentless",
     "score": "404,434",
     "accuracy": "90.05%"
+  },
+  "2025-05-08": {
+    "date": "2025-05-08",
+    "beatmap": 1775312,
+    "artist": "Dictate",
+    "title": "Treason",
+    "mapper": "Realazy",
+    "difficulty": "Collab Hard",
+    "score": "902,789",
+    "accuracy": "98.85%"
   }
 }
