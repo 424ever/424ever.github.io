@@ -2908,5 +2908,15 @@
     "difficulty": "john mapping's Insane",
     "score": "868,899",
     "accuracy": "98.55%"
+  },
+  "2025-05-12": {
+    "date": "2025-05-12",
+    "beatmap": 1383338,
+    "artist": "Rusty K",
+    "title": "Dark Eyes",
+    "mapper": "Mir",
+    "difficulty": "Nightfall",
+    "score": "728,739",
+    "accuracy": "97.79%"
   }
 }
