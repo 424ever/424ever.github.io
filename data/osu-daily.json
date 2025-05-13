@@ -2918,5 +2918,15 @@
     "difficulty": "Nightfall",
     "score": "728,739",
     "accuracy": "97.79%"
+  },
+  "2025-05-13": {
+    "date": "2025-05-13",
+    "beatmap": 1834172,
+    "artist": "Magnetude",
+    "title": "Signals",
+    "mapper": "Firebool",
+    "difficulty": "adioni's 100 MHz",
+    "score": "985,985",
+    "accuracy": "99.56%"
   }
 }
