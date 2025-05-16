@@ -2948,5 +2948,15 @@
     "difficulty": "Hard",
     "score": "992,848",
     "accuracy": "97.81%"
+  },
+  "2025-05-16": {
+    "date": "2025-05-16",
+    "beatmap": 4985481,
+    "artist": "WangleLine",
+    "title": "Journey to the Rabbit Moon Base",
+    "mapper": "tatemae",
+    "difficulty": "Hard",
+    "score": "838,178",
+    "accuracy": "99.20%"
   }
 }
