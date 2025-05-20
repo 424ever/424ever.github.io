@@ -2988,5 +2988,15 @@
     "difficulty": "Marathon",
     "score": "857,655",
     "accuracy": "98.79%"
+  },
+  "2025-05-20": {
+    "date": "2025-05-20",
+    "beatmap": 4750677,
+    "artist": "Camellia",
+    "title": "crystallized",
+    "mapper": "Chaoslitz",
+    "difficulty": "Rumi's Extra",
+    "score": "762,774",
+    "accuracy": "99.01%"
   }
 }
