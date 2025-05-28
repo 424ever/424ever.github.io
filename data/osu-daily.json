@@ -3068,5 +3068,15 @@
     "difficulty": "We cry \"OPEN\"",
     "score": "992,142",
     "accuracy": "99.75%"
+  },
+  "2025-05-28": {
+    "date": "2025-05-28",
+    "beatmap": 908093,
+    "artist": "Function Phantom",
+    "title": "Euclid",
+    "mapper": "byfar",
+    "difficulty": "Fifth Postulate",
+    "score": "543,450",
+    "accuracy": "95.49%"
   }
 }
