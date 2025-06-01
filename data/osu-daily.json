@@ -3108,5 +3108,15 @@
     "difficulty": "I'm Here",
     "score": "735,570",
     "accuracy": "97.61%"
+  },
+  "2025-06-01": {
+    "date": "2025-06-01",
+    "beatmap": 4735519,
+    "artist": "kanemiko",
+    "title": "Twilight of the Abyss",
+    "mapper": "nominomu",
+    "difficulty": "AmeThysTas' Insane",
+    "score": "817,214",
+    "accuracy": "98.69%"
   }
 }
