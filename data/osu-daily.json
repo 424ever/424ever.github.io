@@ -3128,5 +3128,15 @@
     "difficulty": "HYPERNOVA",
     "score": "661,567",
     "accuracy": "94.80%"
+  },
+  "2025-06-03": {
+    "date": "2025-06-03",
+    "beatmap": 1717648,
+    "artist": "Luschka",
+    "title": "Kami no Kotoba",
+    "mapper": "byfar",
+    "difficulty": "J1's Expert",
+    "score": "688,455",
+    "accuracy": "98.58%"
   }
 }
