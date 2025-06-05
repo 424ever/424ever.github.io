@@ -3148,5 +3148,15 @@
     "difficulty": "Master",
     "score": "508,154",
     "accuracy": "91.80%"
+  },
+  "2025-06-05": {
+    "date": "2025-06-05",
+    "beatmap": 539936,
+    "artist": "tsunamix_underground",
+    "title": "Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka",
+    "mapper": "TicClick",
+    "difficulty": "Flower's Hard",
+    "score": "965,163",
+    "accuracy": "98.22%"
   }
 }
