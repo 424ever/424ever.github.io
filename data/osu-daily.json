@@ -3188,5 +3188,15 @@
     "difficulty": "lunatic",
     "score": "494,842",
     "accuracy": "93.77%"
+  },
+  "2025-06-09": {
+    "date": "2025-06-09",
+    "beatmap": 676802,
+    "artist": "Kanpyohgo",
+    "title": "Mannen Okigasa ni Gochui o -Festive extended",
+    "mapper": "wring",
+    "difficulty": "Extra Umbrella",
+    "score": "582,963",
+    "accuracy": "96.99%"
   }
 }
