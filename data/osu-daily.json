@@ -3218,5 +3218,15 @@
     "difficulty": "The World",
     "score": "528,199",
     "accuracy": "93.01%"
+  },
+  "2025-06-12": {
+    "date": "2025-06-12",
+    "beatmap": 2469650,
+    "artist": "LeaF",
+    "title": "Poison AND/OR Affection",
+    "mapper": "Flask",
+    "difficulty": "Advanced",
+    "score": "531,367",
+    "accuracy": "92.28%"
   }
 }
