@@ -3258,5 +3258,15 @@
     "difficulty": "Jeir's Hard",
     "score": "545,488",
     "accuracy": "91.95%"
+  },
+  "2025-06-16": {
+    "date": "2025-06-16",
+    "beatmap": 2306585,
+    "artist": "goreshit",
+    "title": "xenobeat",
+    "mapper": "-Aqua",
+    "difficulty": "PandaHero's Another",
+    "score": "431,250",
+    "accuracy": "89.32%"
   }
 }
