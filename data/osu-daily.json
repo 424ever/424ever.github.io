@@ -3268,5 +3268,15 @@
     "difficulty": "PandaHero's Another",
     "score": "431,250",
     "accuracy": "89.32%"
+  },
+  "2025-06-17": {
+    "date": "2025-06-17",
+    "beatmap": 4509878,
+    "artist": "MetaHumanBoi",
+    "title": "Solar Strike",
+    "mapper": "Daycore",
+    "difficulty": "Invoker Expert",
+    "score": "284,955",
+    "accuracy": "83.85%"
   }
 }
