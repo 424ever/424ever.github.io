@@ -3278,5 +3278,15 @@
     "difficulty": "Invoker Expert",
     "score": "284,955",
     "accuracy": "83.85%"
+  },
+  "2025-06-18": {
+    "date": "2025-06-18",
+    "beatmap": 202756,
+    "artist": "Yousei Teikoku",
+    "title": "The Creator",
+    "mapper": "meiikyuu",
+    "difficulty": "Nyaten",
+    "score": "159,853",
+    "accuracy": "95.19%"
   }
 }
