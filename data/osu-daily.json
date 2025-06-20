@@ -3298,5 +3298,15 @@
     "difficulty": "hard",
     "score": "753,669",
     "accuracy": "96.76%"
+  },
+  "2025-06-20": {
+    "date": "2025-06-20",
+    "beatmap": 4919156,
+    "artist": "hikota",
+    "title": "Acceptance",
+    "mapper": "nik",
+    "difficulty": "Hard",
+    "score": "977,638",
+    "accuracy": "99.25%"
   }
 }
