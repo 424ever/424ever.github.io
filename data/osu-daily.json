@@ -3338,5 +3338,15 @@
     "difficulty": "Wispy's Extra",
     "score": "177,544",
     "accuracy": "86.52%"
+  },
+  "2025-06-24": {
+    "date": "2025-06-24",
+    "beatmap": 4464946,
+    "artist": "tsunamix",
+    "title": "new moon illusion",
+    "mapper": "Gibune",
+    "difficulty": "Lunatic",
+    "score": "0",
+    "accuracy": "0.00%"
   }
 }
