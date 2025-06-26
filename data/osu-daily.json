@@ -3348,5 +3348,15 @@
     "difficulty": "Lunatic",
     "score": "25,344",
     "accuracy": "67.59%"
+  },
+  "2025-06-25": {
+    "date": "2025-06-25",
+    "beatmap": 2407203,
+    "artist": "KINEMA106",
+    "title": "Luna",
+    "mapper": "-Eresh",
+    "difficulty": "Dream",
+    "score": "508,232",
+    "accuracy": "94.70%"
   }
 }
