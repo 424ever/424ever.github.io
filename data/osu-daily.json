@@ -3378,5 +3378,15 @@
     "difficulty": "Hard feat. Heroine",
     "score": "660,996",
     "accuracy": "95.07%"
+  },
+  "2025-06-28": {
+    "date": "2025-06-28",
+    "beatmap": 354167,
+    "artist": "Traktion",
+    "title": "Mission ASCII",
+    "mapper": "galvenize",
+    "difficulty": "Hyper",
+    "score": "665,495",
+    "accuracy": "96.62%"
   }
 }
