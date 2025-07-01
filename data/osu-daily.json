@@ -3408,5 +3408,15 @@
     "difficulty": "Polka's EX I",
     "score": "749,987",
     "accuracy": "96.98%"
+  },
+  "2025-07-01": {
+    "date": "2025-07-01",
+    "beatmap": 3562994,
+    "artist": "Ritorikal",
+    "title": "Synergy",
+    "mapper": "Hinsvar",
+    "difficulty": "Expert",
+    "score": "635,773",
+    "accuracy": "93.95%"
   }
 }
