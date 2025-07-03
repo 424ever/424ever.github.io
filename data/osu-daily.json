@@ -3428,5 +3428,15 @@
     "difficulty": "(TwT)",
     "score": "177,128",
     "accuracy": "86.10%"
+  },
+  "2025-07-03": {
+    "date": "2025-07-03",
+    "beatmap": 1240759,
+    "artist": "Inferi",
+    "title": "The Promethean Kings",
+    "mapper": "100bit",
+    "difficulty": "The Merciful",
+    "score": "1,118,286",
+    "accuracy": "98.61%"
   }
 }
