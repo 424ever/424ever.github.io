@@ -3448,5 +3448,15 @@
     "difficulty": "Hard",
     "score": "507,312",
     "accuracy": "88.89%"
+  },
+  "2025-07-05": {
+    "date": "2025-07-05",
+    "beatmap": 2144640,
+    "artist": "UNDEAD CORPORATION",
+    "title": "Kaeri wa Kowai",
+    "mapper": "walaowey",
+    "difficulty": "Insane",
+    "score": "996,314",
+    "accuracy": "99.81%"
   }
 }
