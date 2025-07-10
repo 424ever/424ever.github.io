@@ -3498,5 +3498,15 @@
     "difficulty": "BakaNA",
     "score": "455,723",
     "accuracy": "92.84%"
+  },
+  "2025-07-10": {
+    "date": "2025-07-10",
+    "beatmap": 5163252,
+    "artist": "MIMI",
+    "title": "Toumeika",
+    "mapper": "Wanpachi",
+    "difficulty": "Advanced",
+    "score": "1,044,842",
+    "accuracy": "99.47%"
   }
 }
