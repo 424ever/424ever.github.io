@@ -3508,5 +3508,15 @@
     "difficulty": "Advanced",
     "score": "1,044,842",
     "accuracy": "99.47%"
+  },
+  "2025-07-11": {
+    "date": "2025-07-11",
+    "beatmap": 3976305,
+    "artist": "Mili",
+    "title": "Nine Point Eight",
+    "mapper": "NeKroMan4ik",
+    "difficulty": "Hard",
+    "score": "997,158",
+    "accuracy": "99.87%"
   }
 }
