@@ -3518,5 +3518,15 @@
     "difficulty": "Hard",
     "score": "997,158",
     "accuracy": "99.87%"
+  },
+  "2025-07-12": {
+    "date": "2025-07-12",
+    "beatmap": 1093095,
+    "artist": "nekodex",
+    "title": "osu!stream theme",
+    "mapper": "Pereira006",
+    "difficulty": "Insane",
+    "score": "1,000,500",
+    "accuracy": "100.00%"
   }
 }
