@@ -3528,5 +3528,15 @@
     "difficulty": "Insane",
     "score": "1,000,500",
     "accuracy": "100.00%"
+  },
+  "2025-07-13": {
+    "date": "2025-07-13",
+    "beatmap": 4585088,
+    "artist": "Kabocha",
+    "title": "Draw me a map, Let me feel the tap",
+    "mapper": "toybot",
+    "difficulty": "Satellite's Insane",
+    "score": "783,150",
+    "accuracy": "98.38%"
   }
 }
