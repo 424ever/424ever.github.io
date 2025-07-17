@@ -3568,5 +3568,15 @@
     "difficulty": "Extra",
     "score": "476,902",
     "accuracy": "93.55%"
+  },
+  "2025-07-17": {
+    "date": "2025-07-17",
+    "beatmap": 2270845,
+    "artist": "Ricky Montgomery",
+    "title": "California",
+    "mapper": "eiri-",
+    "difficulty": "Normal",
+    "score": "802,649",
+    "accuracy": "95.37%"
   }
 }
