@@ -3578,5 +3578,15 @@
     "difficulty": "Normal",
     "score": "802,649",
     "accuracy": "95.37%"
+  },
+  "2025-07-18": {
+    "date": "2025-07-18",
+    "beatmap": 3854761,
+    "artist": "litmus*",
+    "title": "Dizzolve",
+    "mapper": "Enon",
+    "difficulty": "dailycare's hard",
+    "score": "840,045",
+    "accuracy": "99.16%"
   }
 }
