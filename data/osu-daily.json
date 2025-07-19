@@ -3588,5 +3588,15 @@
     "difficulty": "dailycare's hard",
     "score": "840,045",
     "accuracy": "99.16%"
+  },
+  "2025-07-19": {
+    "date": "2025-07-19",
+    "beatmap": 2483305,
+    "artist": "Hyper Potions & SAMME",
+    "title": "Puppy Raceway",
+    "mapper": "Niva",
+    "difficulty": "Checkered Flag",
+    "score": "820,280",
+    "accuracy": "98.89%"
   }
 }
