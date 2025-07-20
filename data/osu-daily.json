@@ -3598,5 +3598,15 @@
     "difficulty": "Checkered Flag",
     "score": "820,280",
     "accuracy": "98.89%"
+  },
+  "2025-07-20": {
+    "date": "2025-07-20",
+    "beatmap": 2617332,
+    "artist": "Kola Kid",
+    "title": "sea shells",
+    "mapper": "fieryrage",
+    "difficulty": "insane",
+    "score": "939,147",
+    "accuracy": "97.86%"
   }
 }
