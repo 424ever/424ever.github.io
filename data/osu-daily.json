@@ -3608,5 +3608,15 @@
     "difficulty": "insane",
     "score": "939,147",
     "accuracy": "97.86%"
+  },
+  "2025-07-21": {
+    "date": "2025-07-21",
+    "beatmap": 2165188,
+    "artist": "onumi",
+    "title": "ARROGANCE",
+    "mapper": "Mirash",
+    "difficulty": "Collab Insane",
+    "score": "659,341",
+    "accuracy": "95.90%"
   }
 }
