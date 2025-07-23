@@ -3628,5 +3628,15 @@
     "difficulty": "Extra",
     "score": "345,012",
     "accuracy": "85.22%"
+  },
+  "2025-07-23": {
+    "date": "2025-07-23",
+    "beatmap": 1992317,
+    "artist": "*namirin",
+    "title": "Kanzen Shouri*Esper Girl",
+    "mapper": "Left",
+    "difficulty": "Ex",
+    "score": "371,981",
+    "accuracy": "86.54%"
   }
 }
