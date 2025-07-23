@@ -3618,5 +3618,15 @@
     "difficulty": "Collab Insane",
     "score": "659,341",
     "accuracy": "95.90%"
+  },
+  "2025-07-22": {
+    "date": "2025-07-22",
+    "beatmap": 1513223,
+    "artist": "yuki.",
+    "title": "Spring Signal",
+    "mapper": "pishifat",
+    "difficulty": "Extra",
+    "score": "345,012",
+    "accuracy": "85.22%"
   }
 }
