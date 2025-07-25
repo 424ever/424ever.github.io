@@ -3648,5 +3648,15 @@
     "difficulty": "lolcubes' Hard",
     "score": "708,947",
     "accuracy": "94.49%"
+  },
+  "2025-07-25": {
+    "date": "2025-07-25",
+    "beatmap": 2662771,
+    "artist": "glass beach",
+    "title": "cold weather",
+    "mapper": "pishifat",
+    "difficulty": "hard",
+    "score": "872,303",
+    "accuracy": "98.75%"
   }
 }
