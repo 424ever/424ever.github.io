@@ -3658,5 +3658,15 @@
     "difficulty": "hard",
     "score": "872,303",
     "accuracy": "98.75%"
+  },
+  "2025-07-26": {
+    "date": "2025-07-26",
+    "beatmap": 163054,
+    "artist": "Shihori",
+    "title": "Magic Girl !!",
+    "mapper": "Frostmourne",
+    "difficulty": "Lunatic",
+    "score": "995,692",
+    "accuracy": "99.85%"
   }
 }
