@@ -3668,5 +3668,15 @@
     "difficulty": "Lunatic",
     "score": "995,692",
     "accuracy": "99.85%"
+  },
+  "2025-07-27": {
+    "date": "2025-07-27",
+    "beatmap": 677872,
+    "artist": "xi",
+    "title": "Blue Zenith",
+    "mapper": "Asphyxia",
+    "difficulty": "toybot's Insane",
+    "score": "997,873",
+    "accuracy": "99.88%"
   }
 }
