@@ -3678,5 +3678,15 @@
     "difficulty": "toybot's Insane",
     "score": "997,873",
     "accuracy": "99.88%"
+  },
+  "2025-07-28": {
+    "date": "2025-07-28",
+    "beatmap": 93842,
+    "artist": "DJ Fresh",
+    "title": "Gold Dust",
+    "mapper": "galvenize",
+    "difficulty": "Insane",
+    "score": "51,560",
+    "accuracy": "66.74%"
   }
 }
