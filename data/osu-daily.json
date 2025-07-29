@@ -3688,5 +3688,15 @@
     "difficulty": "Insane",
     "score": "51,560",
     "accuracy": "66.74%"
+  },
+  "2025-07-29": {
+    "date": "2025-07-29",
+    "beatmap": 221777,
+    "artist": "Infected Mushroom",
+    "title": "The Pretender",
+    "mapper": "RLC",
+    "difficulty": "Pretender",
+    "score": "329,235",
+    "accuracy": "88.36%"
   }
 }
