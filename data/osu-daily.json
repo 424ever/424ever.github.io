@@ -3728,5 +3728,15 @@
     "difficulty": "kuuti's Hard",
     "score": "664,700",
     "accuracy": "97.86%"
+  },
+  "2025-08-02": {
+    "date": "2025-08-02",
+    "beatmap": 5081060,
+    "artist": "DJ Raisei",
+    "title": "ReDIVE NEURON",
+    "mapper": "Wispy",
+    "difficulty": "HYPER",
+    "score": "963,516",
+    "accuracy": "98.79%"
   }
 }
